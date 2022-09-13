@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "TTW True Vegas",
+    "description": "TTW True Vegas is a modpack based off of the Tale of Two Wastelands mod. Our main goal with creating this was to curate the works of many talented mod authors to completely overhaul the Mojave and Capital Wastelands. Please visit our discord (Website) to report bugs and for updates on development.",
+    "author": "<any name you want to show up in the UI>",
+    "maintainers": [
+      "github/TheMrNewVegas"
+    ],
+    "game": "FalloutNewVegas",
+    "tags": [
+      "testing",
+      "overhaul",
+      "roleplay",
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://media.discordapp.net/attachments/984100624733962340/1019269356510789652/main_background.png?width=1618&height=910",
+      "readme": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "True_Vegas_TTW",
+      "discordURL": "https://discord.gg/43EhRjU"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "TFOI4yuuxyw=",
+      "Size": 5116327,
+      "NumberOfArchives": 855,
+      "SizeOfArchives": 22339413291,
+      "NumberOfInstalledFiles": 32670,
+      "SizeOfInstalledFiles": 39573265591
+    },
+    "version": "1.0"
+  }
+]
