@@ -1,24 +1,24 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "TTW True Vegas",
-    "description": "TTW True Vegas is a modpack based off of the Tale of Two Wastelands mod. Our main goal with creating this was to curate the works of many talented mod authors to completely overhaul the Mojave and Capital Wastelands. Please visit our discord (Website) to report bugs and for updates on development.",
+    "title": "Capital Punishment",
+    "description": "Capital Punishment is a collection of many talented mod authors works, utilizing Tale of Two Wastelands 3.3.2 as a baseline.. From roleplay, new textures, animations, gameplay enhancements, and much more, our aim is to overhaul the game to give it a more modern feel.",
     "author": "TheMrNewVegas",
     "maintainers": [
       "github/TheMrNewVegas"
     ],
     "game": "FalloutNewVegas",
     "tags": [
-      "testing",
-      "overhaul",
-      "roleplay"
+      "Gameplay Changes",
+      "Overhaul",
+      "Roleplay"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://media.discordapp.net/attachments/984100624733962340/1019269356510789652/main_background.png?width=1618&height=910",
+      "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
       "readme": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
       "download": "https://authored-files.wabbajack.org/TTW%20True%20Vegas.wabbajack_9414a9ae-df2b-4c0d-a55a-7a1feaa87707",
       "machineURL": "True_Vegas_TTW",
