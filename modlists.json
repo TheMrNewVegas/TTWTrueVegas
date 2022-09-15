@@ -7,7 +7,8 @@
     "maintainers": [
       "github/TheMrNewVegas"
     ],
-    "game": "FalloutNewVegas",
+    "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Hardcore",
       "Survival",
@@ -15,25 +16,27 @@
       "Roleplay"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
       "readme": "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/A.)-INSTALLATION-GUIDE",
-      "download": "https://authored-files.wabbajack.org/TTW%20True%20Vegas.wabbajack_9414a9ae-df2b-4c0d-a55a-7a1feaa87707",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_71d1ac8b-ae60-490f-a70c-dca164fbf1ca",
       "machineURL": "capitalpunishment",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "TFOI4yuuxyw=",
-      "Size": 5116327,
-      "NumberOfArchives": 855,
-      "SizeOfArchives": 22339413291,
-      "NumberOfInstalledFiles": 32670,
-      "SizeOfInstalledFiles": 39573265591
+      "Hash": "VYIDQ26nKoI=",
+      "Size": 9459164,
+      "NumberOfArchives": 885,
+      "SizeOfArchives": 23519287121,
+      "NumberOfInstalledFiles": 35993,
+      "SizeOfInstalledFiles": 42121955209
     },
-    "version": "1.0"
+    "version": "0.2",
+    "RepositoryName": ""
   }
 ]
