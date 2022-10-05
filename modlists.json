@@ -8,8 +8,9 @@
       "github/TheMrNewVegas"
     ],
     "game": "falloutnewvegas",
-    "official": false,
+    "official": True,
     "tags": [
+      "Official"
       "Hardcore",
       "Survival",
       "Overhaul",
