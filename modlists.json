@@ -8,7 +8,7 @@
       "github/TheMrNewVegas"
     ],
     "game": "falloutnewvegas",
-    "official": True,
+    "official": true,
     "tags": [
       "Official"
       "Hardcore",
