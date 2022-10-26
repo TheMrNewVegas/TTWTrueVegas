@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Capital Punishment",
     "description": "Capital Punishment is a collection of many talented mod authors works, utilizing Tale of Two Wastelands 3.3.2 as a baseline.. From roleplay, new textures, animations, gameplay enhancements, and much more, our aim is to overhaul the game to give it a more modern feel.",
     "author": "TheMrNewVegas",
@@ -21,23 +20,23 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
       "readme": "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Before-We-Get-Started",
-      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_c73220d4-5ca1-45f6-92b3-5f0bfc3f7059",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_d32fd59e-5ea6-4192-967f-f3d5cb155daa",
       "machineURL": "capitalpunishment",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "TZyqDuPDrXY=",
-      "Size": 3102207,
+      "Hash": "Z7cfE8wC8ms=",
+      "Size": 3601238,
       "NumberOfArchives": 881,
       "SizeOfArchives": 34565049835,
-      "NumberOfInstalledFiles": 49081,
-      "SizeOfInstalledFiles": 59108071096
+      "NumberOfInstalledFiles": 48655,
+      "SizeOfInstalledFiles": 59108066162
     },
     "version": "0.99",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-26T17:09:13.4730763Z",
+    "repositoryName": ""
   }
 ]
