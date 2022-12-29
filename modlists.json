@@ -22,21 +22,21 @@
     "links": {
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
       "readme": "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Before-We-Get-Started",
-      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_f210d20e-afca-4eaf-83c9-04de24ad692a",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_923923ff-fa78-4b43-80d9-bf4f76a0608e",
       "machineURL": "capitalpunishment",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "ZUCQIJKI9Ho=",
-      "Size": 3638835,
-      "NumberOfArchives": 892,
-      "SizeOfArchives": 32682664661,
-      "NumberOfInstalledFiles": 48301,
-      "SizeOfInstalledFiles": 56522842737
+      "Hash": "pjb9evNL0PI=",
+      "Size": 3749042,
+      "NumberOfArchives": 897,
+      "SizeOfArchives": 32985726667,
+      "NumberOfInstalledFiles": 50832,
+      "SizeOfInstalledFiles": 57130120114
     },
-    "version": "1.36",
+    "version": "1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-29T02:09:42.228377Z",
+    "dateUpdated": "2022-12-29T04:23:44.2268895Z",
     "repositoryName": ""
   }
 ]
