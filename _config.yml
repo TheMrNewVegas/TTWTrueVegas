@@ -1,0 +1,194 @@
+title: Capital Punishment Wiki
+description: Capital Punishment Wiki: Fallout New Vegas x Tale of Two Wastelands Modlist
+theme: just-the-docs
+#remote_theme: just-the-docs\just-the-docs
+back_to_top: true
+back_to_top_text: "Back to top"
+color_scheme: dark
+
+url: https://wildlander-mod.github.io/
+
+# Pages in following directories will be excluded from the Export
+exclude:
+  - 
+
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2022 TheMrNewVegas."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+aux_links:
+  "Discord":
+    - "https://discord.gg/43EhRjU"
+  "Youtube":
+    - "https://www.youtube.com/channel/UCKStjWfEBb-UfHUdf3bFY8g"
+  "Twitch":
+    - "https://www.twitch.tv/TheMrNewVegas"
+  "Patreon":
+    - "https://www.patreon.com/Themrnewvegas"
+  "Kofi":
+    - "https://ko-fi.com/themrnewvegas"  
+    
+    
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+   
+callouts_level: loud
+callouts:
+  highlight:
+    title: Notice
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  logfile:
+    title: Log Section
+    color: green
+  iniSetting:
+    title: INI Setting
+    color: green
+  alternative:
+    title: Alternative
+    color: green
+  console:
+    title: Console Commands
+    color: green    
+  hint:
+    title: Hint
+    color: green  
+  note:
+    title: Note
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+  NoTitleYellow:
+    color: yellow
+  NoTitleGreen:
+    color: green
+    
+# Define Jekyll collections
+collections:
+  # Define a collection named "ClassGuides", its documents reside in the "_ClassGuides" directory
+  01Support:
+    permalink: "/:collection/:path/"
+    output: true
+  02BeginnersGuide:
+    permalink: "/:collection/:path/"
+    output: true
+  06-MechanicsAnaylsis:
+    permalink: "/:collection/:path/"
+    output: true
+  07-GearAnalysis:
+    permalink: "/:collection/:path/"
+    output: true
+  08-SkillAnalysis:
+    permalink: "/:collection/:path/"
+    output: true
+  09-How-Do-i:
+    permalink: "/:collection/:path/"
+    output: true
+  10-Crafting:
+    permalink: "/:collection/:path/"
+    output: true
+  11Deep-Dives:
+    permalink: "/:collection/:path/"
+    output: true
+  12Cheat-Sheets:
+    permalink: "/:collection/:path/"
+    output: true
+  13Community:
+    permalink: "/:collection/:path/"
+    output: true
+  14ModlistVersions:
+    permalink: "/:collection/:path/"
+    output: true
+  15ClassGuides:
+    permalink: "/:collection/:path/"
+    output: true
+  16OtherResources:
+    permalink: "/:collection/:path/"
+    output: true
+    
+just_the_docs:
+  collections:
+    01Support:
+      name: Support Pages
+      nav_fold: true   
+    02BeginnersGuide:
+      name: Beginners Guide
+      nav_fold: true   
+    06-MechanicsAnaylsis:
+      name: Mechanics Analysis
+      nav_fold: true 
+    07-GearAnalysis:
+      name: Gear Analysis
+      nav_fold: true 
+    08-SkillAnalysis:
+      name: Skill Analysis
+      nav_fold: true 
+    09-How-Do-i:
+      name: How Do I?
+      nav_fold: true 
+    10-Crafting:
+      name: Crafting
+      nav_fold: true 
+    11Deep-Dives:
+      name: Mod Deep Dives
+      nav_fold: true 
+    12Cheat-Sheets:
+      name: Cheat Sheets
+      nav_fold: true 
+    13Community:
+      name: Community
+      nav_fold: true 
+    14ModlistVersions:
+      name: Modlist & Change Logs
+      nav_fold: true  
+    15ClassGuides:
+      name: Class Guides
+      nav_fold: true
+    16OtherResources:
+      name: Other Resources
+      nav_fold: true
+
+
+nav_external_links:
+  - title: Legacy Wiki
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas/wiki
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Releases
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
+    hide_icon: false # set to true to hide the external link icon - defaults to false   
+  
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Prici
