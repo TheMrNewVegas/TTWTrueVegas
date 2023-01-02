@@ -1,12 +1,13 @@
 title: Capital Punishment Wiki
 description: Capital Punishment Wiki: Fallout New Vegas x Tale of Two Wastelands Modlist
 theme: just-the-docs
+
 #remote_theme: just-the-docs\just-the-docs
 back_to_top: true
 back_to_top_text: "Back to top"
 color_scheme: dark
 
-url: https://wildlander-mod.github.io/
+url: https://TheMrNewVegas.github.io/TTWTrueVegas
 
 # Pages in following directories will be excluded from the Export
 exclude:
