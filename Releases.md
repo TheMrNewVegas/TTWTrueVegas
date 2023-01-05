@@ -2,7 +2,7 @@
 
 ## Release 1.4.4
 
-### Save Safe for Versions : 1.42,1.43
+### Not Save Safe
 
 **Added**
 - [Physically Based Kitchen Set](https://www.nexusmods.com/newvegas/mods/79541?tab=files)
@@ -27,6 +27,10 @@
 > 5.9.9 to 6.0.0
 - Animated Ingestibles
 > 3.4 to 4.0
+- PRSO
+> 2.0 to 2.1
+- Physically Based Kitchenware
+> 1.0 to 1.1
 
 **Planned Additions**
 - Add Back TTW LOD Overhaul
