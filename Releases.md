@@ -6,12 +6,15 @@
 
 **Added**
 - [Physically Based Kitchen Set](https://www.nexusmods.com/newvegas/mods/79541?tab=files)
+- Advanced Recon, Gear, & TTW Gear
 
 **Removed**
 - Kitchen Set
 > Replaced with Bales
 - Brave New World
 > Entirely Not Compatible with TTW as I have just learned
+- Enhanced Vision
+> Replaced by Advanced Recon
 
 **Updated**
 - Enhanced Vegas Ruins
