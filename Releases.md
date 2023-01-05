@@ -10,6 +10,8 @@
 **Removed**
 - Kitchen Set
 > Replaced with Bales
+- Brave New World
+> Entirely Not Compatible with TTW as I have just learned
 
 **Updated**
 - Enhanced Vegas Ruins
