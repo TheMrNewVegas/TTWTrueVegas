@@ -22,21 +22,21 @@
     "links": {
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
       "readme": "https://www.capitalpunishmentmod.com/02InstallGuide/1-Before-We-Get-Started/",
-      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_184f2b98-9fd1-4bd5-986d-a5880620fa08",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_018ab36e-b4e3-46d5-9fb4-a374598c4ee6",
       "machineURL": "capitalpunishment",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "bpRJHK9txQA=",
-      "Size": 4172536,
-      "NumberOfArchives": 894,
-      "SizeOfArchives": 33235983213,
-      "NumberOfInstalledFiles": 50919,
-      "SizeOfInstalledFiles": 57422749243
+      "Hash": "16JVaz8VaBY=",
+      "Size": 4145999,
+      "NumberOfArchives": 893,
+      "SizeOfArchives": 32803424442,
+      "NumberOfInstalledFiles": 50395,
+      "SizeOfInstalledFiles": 57592847464
     },
-    "version": "1.43",
+    "version": "1.44",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-02T17:24:18.9069955Z",
+    "dateUpdated": "2023-01-06T00:22:17.8013052Z",
     "repositoryName": ""
   }
 ]
