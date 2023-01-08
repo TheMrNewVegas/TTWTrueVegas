@@ -1,5 +1,17 @@
 # Releases (Newest to Oldest)
 
+## Release 1.4.5
+
+### Save Safe For Versions: 1.45
+
+**Updated**
+- Moonlight NVSE
+> 1.4 to 1.5
+- Advance Recon
+> 4.02 to 4.11
+
+
+
 ## Release 1.4.4
 
 ### Not Save Safe
