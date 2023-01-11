@@ -4,12 +4,23 @@
 
 ### Save Safe For Versions: 1.45
 
+**Added**
+- [Animated Ingestibles 4.0.1 Update](https://www.nexusmods.com/newvegas/mods/70139?tab=files)
+- [Dos Osos Veterans Club](https://www.nexusmods.com/newvegas/mods/76099?tab=files)
+
 **Updated**
 - Moonlight NVSE
 > 1.4 to 1.5
 - Advance Recon
-> 4.02 to 4.11
+> 4.02 to 4.11 to 4.12
+- Two Wastelands Redesigned Update
+> 1.1.2 to 1.1.2A
+- Animated Ingestibles
+> 4.0 to 4.0.1
+- Physically Based Kitchenware
+> 1.1 to 1.2
 
+**Removed**
 
 
 ## Release 1.4.4
