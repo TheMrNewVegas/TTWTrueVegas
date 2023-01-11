@@ -20,8 +20,8 @@
 - Physically Based Kitchenware
 > 1.1 to 1.2
 
-**Removed**
-
+**Planned Additions**
+- Update LODs
 
 ## Release 1.4.4
 
