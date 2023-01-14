@@ -18,7 +18,9 @@
 - Animated Ingestibles
 > 4.0 to 4.0.1
 - Physically Based Kitchenware
-> 1.1 to 1.2
+> 1.1 to 1.2 to 1.3
+- Physically Based Chems
+> 1.2 to 1.3
 
 **Planned Additions**
 - Update LODs
