@@ -12,7 +12,7 @@
 - Moonlight NVSE
 > 1.4 to 1.5
 - Advance Recon
-> 4.02 to 4.11 to 4.12
+> 4.02 to 4.11 to 4.12 to 4.13
 - Two Wastelands Redesigned Update
 > 1.1.2 to 1.1.2A
 - Animated Ingestibles
