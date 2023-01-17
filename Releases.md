@@ -7,6 +7,8 @@
 **Added**
 - [Animated Ingestibles 4.0.1 Update](https://www.nexusmods.com/newvegas/mods/70139?tab=files)
 - [Dos Osos Veterans Club](https://www.nexusmods.com/newvegas/mods/76099?tab=files)
+- [Cloud Upgrade](https://www.nexusmods.com/newvegas/mods/79612?tab=files)
+- [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661?tab=files&file_id=1000103654&nmm=1)
 
 **Updated**
 - Moonlight NVSE
