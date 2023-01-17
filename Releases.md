@@ -1,8 +1,8 @@
 # Releases (Newest to Oldest)
 
-## Release 1.4.5
+## Release 1.45
 
-### Save Safe For Versions: 1.45
+### Not Save safe for previous versions
 
 **Added**
 - [Animated Ingestibles 4.0.1 Update](https://www.nexusmods.com/newvegas/mods/70139?tab=files)
@@ -21,6 +21,8 @@
 > 1.1 to 1.2 to 1.3
 - Physically Based Chems
 > 1.2 to 1.3
+- Cloud Shadows
+> 1.0 to 1.01
 
 **Planned Additions**
 - Update LODs
