@@ -9,6 +9,8 @@
 - [Dos Osos Veterans Club](https://www.nexusmods.com/newvegas/mods/76099?tab=files)
 - [Cloud Upgrade](https://www.nexusmods.com/newvegas/mods/79612?tab=files)
 - [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661?tab=files&file_id=1000103654&nmm=1)
+- [Washingtons Malevolence 4.04 Update](https://www.nexusmods.com/newvegas/mods/75027?tab=files)
+- [PSRO - CFWR Patch](https://www.nexusmods.com/newvegas/mods/71781?tab=files)
 
 **Updated**
 - Moonlight NVSE
@@ -25,6 +27,12 @@
 > 1.2 to 1.3
 - Cloud Shadows
 > 1.0 to 1.01
+- SawyerbattyTTW
+> 1.13 to 1.14
+- B42 Dropmag TTW Patch
+> 1.0 to 1.1 
+- B42 Dropmag R91 & Friends Patch
+> 1.0 to 1.1 
 
 **Planned Additions**
 - Update LODs
