@@ -34,6 +34,12 @@
 - B42 Dropmag R91 & Friends Patch
 > 1.0 to 1.1 
 
+**Removed**
+- Caravan Tournament
+> Nonfixable Stool Bug wherein player cannot activate quest
+- Akarion's Core ESM
+> Associated with the above
+
 **Planned Additions**
 - Update LODs
 
@@ -52,6 +58,7 @@
 > Entirely Not Compatible with TTW as I have just learned
 - Enhanced Vision
 > Replaced by Advanced Recon
+
 
 **Updated**
 - Enhanced Vegas Ruins
