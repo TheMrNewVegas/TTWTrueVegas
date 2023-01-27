@@ -14,13 +14,13 @@
 
 **Updated**
 - Moonlight NVSE
-> 1.4 to 1.5
-- Advance Recon
+> 1.4 to 1.5 to 1.51
+- Advanced Recon
 > 4.02 to 4.11 to 4.12 to 4.13
 - Two Wastelands Redesigned Update
 > 1.1.2 to 1.1.2A
 - Animated Ingestibles
-> 4.0 to 4.0.1
+> 4.0 to 4.0.1 to 4.04
 - Physically Based Kitchenware
 > 1.1 to 1.2 to 1.3
 - Physically Based Chems
@@ -33,6 +33,14 @@
 > 1.0 to 1.1 
 - B42 Dropmag R91 & Friends Patch
 > 1.0 to 1.1 
+- Enhanced Vegas Ruins
+> 2.0 to 3.0
+- Bleedout 
+> 1.4 to 1.41
+- Washington's Malevolence
+> 4.04 to 4.05
+- Desert Natural Weathers
+> 6.0 to 6.1
 
 **Removed**
 - Caravan Tournament
