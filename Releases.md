@@ -53,6 +53,7 @@
 
 **Planned Additions**
 - Update LODs
+- Moving DXVK to Game Folder Files & Creating an Optional Installation Guide for Supported PC's
 
 ## Release 1.4.4
 
