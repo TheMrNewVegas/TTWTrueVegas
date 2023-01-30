@@ -11,6 +11,7 @@
 - [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661?tab=files&file_id=1000103654&nmm=1)
 - [Washingtons Malevolence 4.04 Update](https://www.nexusmods.com/newvegas/mods/75027?tab=files)
 - [PSRO - CFWR Patch](https://www.nexusmods.com/newvegas/mods/71781?tab=files)
+- [Bleedless Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/75660?tab=files)
 
 **Updated**
 - Moonlight NVSE
@@ -47,6 +48,8 @@
 > Nonfixable Stool Bug wherein player cannot activate quest
 - Akarion's Core ESM
 > Associated with the above
+- Better Headshots
+> Testing Better DMG Multipliers on Bleedless
 
 **Planned Additions**
 - Update LODs
