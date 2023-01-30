@@ -37,11 +37,11 @@
 - Enhanced Vegas Ruins
 > 2.0 to 3.0
 - Bleedout 
-> 1.4 to 1.41
+> 1.4 to 1.41 to 1.42
 - Washington's Malevolence
 > 4.04 to 4.05
 - Desert Natural Weathers
-> 6.0 to 6.1
+> 6.0 to 6.1 to 6.2.5
 
 **Removed**
 - Caravan Tournament
