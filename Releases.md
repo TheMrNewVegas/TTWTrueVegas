@@ -12,6 +12,9 @@
 - [Washingtons Malevolence 4.04 Update](https://www.nexusmods.com/newvegas/mods/75027?tab=files)
 - [PSRO - CFWR Patch](https://www.nexusmods.com/newvegas/mods/71781?tab=files)
 - [Bleedless Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/75660?tab=files)
+- [B42 Bows](https://www.nexusmods.com/newvegas/mods/79786)
+- [Physical Based Parkware](https://www.nexusmods.com/newvegas/mods/79684)
+- [DKS & Friends](https://www.nexusmods.com/newvegas/mods/79689)
 
 **Updated**
 - Moonlight NVSE
