@@ -15,6 +15,7 @@
 - [B42 Bows](https://www.nexusmods.com/newvegas/mods/79786)
 - [Physical Based Parkware](https://www.nexusmods.com/newvegas/mods/79684)
 - [DKS & Friends](https://www.nexusmods.com/newvegas/mods/79689)
+- [Your Buddy is Dead](https://www.nexusmods.com/newvegas/mods/79635)
 
 **Updated**
 - Moonlight NVSE
