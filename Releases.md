@@ -46,6 +46,12 @@
 > 4.04 to 4.05
 - Desert Natural Weathers
 > 6.0 to 6.1 to 6.2.5
+- NV Compatibility Skeleton
+> 12.0 to 13.0
+- Retrievable Throwables Reforged
+> 2.0 to 2.2
+- NVTF
+> 10.0alpha to 10.1b
 
 **Removed**
 - Caravan Tournament
