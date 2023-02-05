@@ -21,7 +21,7 @@
 - Moonlight NVSE
 > 1.4 to 1.5 to 1.51
 - Advanced Recon
-> 4.02 to 4.11 to 4.12 to 4.13
+> 4.02 to 4.11 to 4.12 to 4.13 to 4.14
 - Two Wastelands Redesigned Update
 > 1.1.2 to 1.1.2A
 - Animated Ingestibles
@@ -39,7 +39,7 @@
 - B42 Dropmag R91 & Friends Patch
 > 1.0 to 1.1 
 - Enhanced Vegas Ruins
-> 2.0 to 3.0
+> 2.0 to 3.0 to 3.2
 - Bleedout 
 > 1.4 to 1.41 to 1.42
 - Washington's Malevolence
@@ -52,6 +52,16 @@
 > 2.0 to 2.2
 - NVTF
 > 10.0alpha to 10.1b
+- JIP LN NVSE
+> 56.78 to 56.80
+- B42 Bows
+> 1.0beta3 to 1.0b9
+- Infirmary Overhaul TTW Port
+> 2.0 fix to 3.01
+- Benny Humbles You 
+> 12.0 to 12.1
+- NV Bounties I LE & TTW Patches
+> 1.3/1.0 to 1.4
 
 **Removed**
 - Caravan Tournament
