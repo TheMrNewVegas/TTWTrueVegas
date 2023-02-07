@@ -25,7 +25,7 @@
 - Two Wastelands Redesigned Update
 > 1.1.2 to 1.1.2A
 - Animated Ingestibles
-> 4.0 to 4.0.1 to 4.04
+> 4.0 to 4.0.1 to 4.04 to 4.0.5
 - Physically Based Kitchenware
 > 1.1 to 1.2 to 1.3
 - Physically Based Chems
