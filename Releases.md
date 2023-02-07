@@ -70,6 +70,19 @@
 > Associated with the above
 - Better Headshots
 > Testing Better DMG Multipliers on Bleedless
+- Legendary NPC's & Weapons, Update 2.3, & Animations
+> Poll Vote 
+- Butcher Pete Pt 1 & 2
+> Only installed as requirements to Legendary Anims
+- Different Ballistic Fist Weapon Animations
+> Only installed as requirements to Legendary Anims
+- Different Powerfist Animations
+> Only installed as requirements to Legendary Anims
+- Sigma Melee Animations Ch 1
+> Only installed as requirements to Legendary Anims
+- Unarmed Animations
+> Only installed as requirements to Legendary Anims
+- Cleaned up the Downloads Section
 
 **Planned Additions**
 - Update LODs
