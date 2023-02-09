@@ -59,7 +59,7 @@
 - JIP LN NVSE
 > 56.78 to 56.80
 - B42 Bows
-> 1.0beta3 to 1.0b9
+> 1.0beta3 to 1.0b9 to 1.1b
 - Infirmary Overhaul TTW Port
 > 2.0 fix to 3.01
 - Benny Humbles You 
