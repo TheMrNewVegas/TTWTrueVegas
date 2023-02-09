@@ -16,7 +16,7 @@
 - [Physical Based Parkware](https://www.nexusmods.com/newvegas/mods/79684)
 - [DKS & Friends](https://www.nexusmods.com/newvegas/mods/79689)
 - [Your Buddy is Dead](https://www.nexusmods.com/newvegas/mods/79635)
-- [3rd Person Camera Overhaul](https://www.nexusmods.com/newvegas/mods/79883)
+- [3rd Person Camera Overhaul & ToTNW Patch](https://www.nexusmods.com/newvegas/mods/79883)
 
 **Updated**
 - Moonlight NVSE
