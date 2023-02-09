@@ -16,6 +16,7 @@
 - [Physical Based Parkware](https://www.nexusmods.com/newvegas/mods/79684)
 - [DKS & Friends](https://www.nexusmods.com/newvegas/mods/79689)
 - [Your Buddy is Dead](https://www.nexusmods.com/newvegas/mods/79635)
+- [3rd Person Camera Overhaul](https://www.nexusmods.com/newvegas/mods/79883)
 
 **Updated**
 - Moonlight NVSE
@@ -83,6 +84,8 @@
 - Unarmed Animations
 > Only installed as requirements to Legendary Anims
 - Cleaned up the Downloads Section
+- Simple Shoulder Swap
+> Replaced with 3rd Person Camera Overhaul
 
 **Planned Additions**
 - Update LODs
