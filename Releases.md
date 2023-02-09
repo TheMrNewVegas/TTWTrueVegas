@@ -18,6 +18,8 @@
 - [Your Buddy is Dead](https://www.nexusmods.com/newvegas/mods/79635)
 - [3rd Person Camera Overhaul & ToTNW Patch](https://www.nexusmods.com/newvegas/mods/79883)
 - [Forgotten Millenia Animations](https://www.nexusmods.com/newvegas/mods/79911)
+- [Interior Rain & IR TTW](https://www.nexusmods.com/newvegas/mods/79656?tab=files)
+- [3D Rain](https://www.nexusmods.com/newvegas/mods/79652)
 
 **Updated**
 - Moonlight NVSE
