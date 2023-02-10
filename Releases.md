@@ -103,6 +103,11 @@
 - Simple Shoulder Swap
 > Replaced with 3rd Person Camera Overhaul
 
+**Fixed**
+- Reorganized files so that a majority download off of the nexus
+- Updated all of our INI's to their most recent versions (Something we neglected to do stupidly until now)
+- Recreated the Keybind Interface
+
 **Planned Additions**
 
 
