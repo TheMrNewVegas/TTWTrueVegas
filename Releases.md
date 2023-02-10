@@ -1,6 +1,19 @@
 # Releases (Newest to Oldest)
 
-## Release 1.45
+## Release 1.45 Official
+
+### Not Save safe for previous versions
+
+**Added**
+
+**Updated**
+
+**Removed**
+
+**Planned Additions**
+
+
+## Release 1.45 PublicTest Build
 
 ### Not Save safe for previous versions
 
@@ -91,8 +104,7 @@
 > Replaced with 3rd Person Camera Overhaul
 
 **Planned Additions**
-- Update LODs
-- Moving DXVK to Game Folder Files & Creating an Optional Installation Guide for Supported PC's
+
 
 ## Release 1.4.4
 
