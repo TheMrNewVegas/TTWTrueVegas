@@ -13,7 +13,7 @@
 **Planned Additions**
 
 
-## Release 1.45 PublicTest Build
+## Release 1.45 Public Test Build
 
 ### Not Save safe for previous versions
 
