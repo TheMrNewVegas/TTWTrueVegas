@@ -106,7 +106,8 @@
 **Fixed**
 - Reorganized files so that a majority download off of the nexus
 - Updated all of our INI's to their most recent versions (Something we neglected to do stupidly until now)
-- Recreated the Keybind Interface
+- Recreated & Updated the Keybind Interface
+- New Preconfigured Save
 
 **Planned Additions**
 
