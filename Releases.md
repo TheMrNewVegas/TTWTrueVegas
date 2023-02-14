@@ -7,6 +7,23 @@
 **Added**
 
 **Updated**
+- JIP LN NVSE Plugin
+> 56.8 to 56.81
+- Stewies Tweaks & Engine Fixes
+> 8.55 to 8.6
+- Wash Yourself A Bathing Mod
+> 3.0 to 3.1
+- Animated Ingestibles
+> 4.0.5 to 4.0.6
+- Washington's Malevolence
+> 4.05 to 4.07
+- 3rd Person Camera Overhaul
+> 1.8 to 2.2
+- PSRO
+> 2.1 to 2.1.2
+- PSRO CFWR Patch
+> 2.1.2 to 2.1.3
+
 
 **Removed**
 
