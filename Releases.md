@@ -30,6 +30,8 @@
 > Making space for LOD addons
 - Bottlecap Flip & Dice Roll
 > Not used + Making space
+- Immunobooster Recipe ESP
+> Replaced with Script variant
 
 **Planned Additions**
 
