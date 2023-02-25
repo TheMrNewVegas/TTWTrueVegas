@@ -1,6 +1,7 @@
 # Releases (Newest to Oldest)
+## Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
-## Release 1.45 - Unreleased
+## Release 1.45c 
 
 ### Not Save safe for previous versions
 
@@ -24,8 +25,11 @@
 - PSRO CFWR Patch
 > 2.1.2 to 2.1.3
 
-
 **Removed**
+- B42 Wristwatch
+> Making space for LOD addons
+- Bottlecap Flip & Dice Roll
+> Not used + Making space
 
 **Planned Additions**
 
