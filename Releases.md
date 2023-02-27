@@ -15,6 +15,7 @@
 - Bleedout YSI Patch
 - Tobiah Reshade
 > Wanted a second option for those who dislike the darker nature of Tiddieshade
+- WAP Static Weapon Replacers
 
 **Updated**
 - Sup NVSE
@@ -40,6 +41,7 @@
 > Making ESP Room/Staff Decision
 - FNV Crossbow
 > Decided B42 Bows is good enough/Making ESP Space
+- Burrowing Creatures
 
 **Planned Additions**
 
