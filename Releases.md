@@ -25,8 +25,8 @@
 > 1.1beta to 2.0
 
 **Removed**
-
-
+- Bulletsnap 
+> Making ESP Room/Staff Decision
 **Planned Additions**
 
 
