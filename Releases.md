@@ -30,10 +30,12 @@
 - Audley's Misc Textures
 > 1.1beta to 2.0
 
-
 **Removed**
 - Bulletsnap 
 > Making ESP Room/Staff Decision
+- FNV Crossbow
+> Decided B42 Bows is good enough/Making ESP Space
+
 **Planned Additions**
 
 
