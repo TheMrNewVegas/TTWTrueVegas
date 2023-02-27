@@ -31,6 +31,9 @@
 > 2.1 to 2.1.2
 - Audley's Misc Textures
 > 1.1beta to 2.0
+- NVHR
+> 3.2 to 4.2
+> I have no clue why we had this outdated and was under the assumption we did update this a long time ago
 
 **Removed**
 - Bulletsnap 
