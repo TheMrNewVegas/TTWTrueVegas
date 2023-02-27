@@ -1,6 +1,35 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
+## Release 1.45d
+
+### Not Save safe for previous versions
+
+**Added**
+- PSRO Scope Scissor Remover
+
+**Updated**
+- Sup NVSE
+> 8.30 to 8.35
+- Onetweak
+> 2.1.0.3alpha to 2.1.0.4
+- Essential Vanilla Enhancements Merged
+> 1.3 to 1.3.1
+- S6S Perks TTW
+> 15.12 to 15.13
+- 3rd Person Camera Overhaul
+> 2.2 to 2.3
+- PSRO
+> 2.1 to 2.1.2
+- Audley's Misc Textures
+> 1.1beta to 2.0
+
+**Removed**
+
+
+**Planned Additions**
+
+
 ## Release 1.45c 
 
 ### Not Save safe for previous versions
