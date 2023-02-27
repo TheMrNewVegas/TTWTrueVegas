@@ -13,6 +13,8 @@
 - Sweet Style Bounties & WAP Patch
 - B42 Dropmage NVB 1 LE Patch
 - Bleedout YSI Patch
+- Tobiah Reshade
+> Wanted a second option for those who dislike the darker nature of Tiddieshade
 
 **Updated**
 - Sup NVSE
