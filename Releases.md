@@ -7,6 +7,12 @@
 
 **Added**
 - PSRO Scope Scissor Remover
+- B42 Corner Notify
+- Casa De New Vegas
+- Spacewalk Gravity
+- Sweet Style Bounties & WAP Patch
+- B42 Dropmage NVB 1 LE Patch
+- Bleedout YSI Patch
 
 **Updated**
 - Sup NVSE
@@ -23,6 +29,7 @@
 > 2.1 to 2.1.2
 - Audley's Misc Textures
 > 1.1beta to 2.0
+
 
 **Removed**
 - Bulletsnap 
