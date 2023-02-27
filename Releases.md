@@ -16,6 +16,7 @@
 - Tobiah Reshade
 > Wanted a second option for those who dislike the darker nature of Tiddieshade
 - WAP Static Weapon Replacers
+- Caravan Fast Travel TTW
 
 **Updated**
 - Sup NVSE
@@ -35,6 +36,8 @@
 - NVHR
 > 3.2 to 4.2
 > I have no clue why we had this outdated and was under the assumption we did update this a long time ago
+- Hit's Anims: Animation Fixes
+> 10.0 to 11.0
 
 **Removed**
 - Bulletsnap 
