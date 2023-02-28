@@ -21,6 +21,7 @@
 - MTB Benny Steals Your Truck
 - Controller Support NVSE & JAM Patch
 - FPGE Lite & TTW Patch
+- Ammo Boxes: An Economy Fix
 
 **Updated**
 - Sup NVSE
