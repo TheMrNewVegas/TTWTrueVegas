@@ -52,6 +52,8 @@
 > Making ESP room
 - Aid UI
 > Making ESP Room/Senseless UI Clutter
+- RX Toolkit and Associated Patches
+> Cluttered and Outdated
 
 **Planned Additions**
 
