@@ -19,9 +19,11 @@
 - B42 Bows x Consisten Pip-Map Icons
 - MTB Purchasing Addon
 - MTB Benny Steals Your Truck
+- All of the Freeside Overhaul Mods + Vegas Tunnels in a custom AIO
 - Controller Support NVSE & JAM Patch
 - FPGE Lite & TTW Patch
 - Ammo Boxes: An Economy Fix
+- Economy Overhaul
 
 **Updated**
 - Sup NVSE
