@@ -17,6 +17,7 @@
 > Wanted a second option for those who dislike the darker nature of Tiddieshade
 - WAP Static Weapon Replacers
 - Caravan Fast Travel TTW
+- B42 Bows x Consisten Pip-Map Icons
 
 **Updated**
 - Sup NVSE
