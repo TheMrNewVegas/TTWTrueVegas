@@ -26,6 +26,7 @@
 - Economy Overhaul
 - Main Menu music replacer - Fallout Theme Mashup By Riftley
 - Ghouls Inflict Radiation Damage
+- Fog Based Object Culling
 
 **Updated**
 - Sup NVSE
