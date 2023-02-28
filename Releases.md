@@ -20,7 +20,7 @@
 - MTB Purchasing Addon
 - MTB Benny Steals Your Truck
 - Controller Support NVSE & JAM Patch
-- FPGE Lite
+- FPGE Lite & TTW Patch
 
 **Updated**
 - Sup NVSE
