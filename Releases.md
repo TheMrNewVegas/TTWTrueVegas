@@ -20,6 +20,7 @@
 - MTB Purchasing Addon
 - MTB Benny Steals Your Truck
 - Controller Support NVSE & JAM Patch
+- FPGE Lite
 
 **Updated**
 - Sup NVSE
@@ -54,6 +55,8 @@
 > Making ESP Room/Senseless UI Clutter
 - RX Toolkit and Associated Patches
 > Cluttered and Outdated
+- FPGE & All Patches
+> Replaced with FPGE Lite
 
 **Planned Additions**
 
