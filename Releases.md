@@ -48,6 +48,8 @@
 - FNV Crossbow
 > Decided B42 Bows is good enough/Making ESP Space
 - Burrowing Creatures
+- Cazaclaws
+> Making ESP room
 
 **Planned Additions**
 
