@@ -203,6 +203,8 @@
 > Entirely Not Compatible with TTW as I have just learned
 - Enhanced Vision
 > Replaced by Advanced Recon
+- AidUI
+> Need ESP Room/Remove UI Clutter
 
 
 **Updated**
