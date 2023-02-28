@@ -67,7 +67,7 @@
 > This shit hurted 
 
 **Planned Additions**
-
+https://www.nexusmods.com/newvegas/mods/80105
 
 ## Release 1.45c 
 
