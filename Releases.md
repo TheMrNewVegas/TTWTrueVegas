@@ -24,6 +24,7 @@
 - FPGE Lite & TTW Patch
 - Ammo Boxes: An Economy Fix
 - Economy Overhaul
+- Main Menu music replacer - Fallout Theme Mashup By Riftley
 
 **Updated**
 - Sup NVSE
