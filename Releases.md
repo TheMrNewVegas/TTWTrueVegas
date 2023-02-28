@@ -9,7 +9,6 @@
 - PSRO Scope Scissor Remover
 - B42 Corner Notify
 - Casa De New Vegas
-- Spacewalk Gravity
 - Sweet Style Bounties & WAP Patch
 - B42 Dropmage NVB 1 LE Patch
 - Bleedout YSI Patch
