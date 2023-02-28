@@ -19,6 +19,7 @@
 - B42 Bows x Consisten Pip-Map Icons
 - MTB Purchasing Addon
 - MTB Benny Steals Your Truck
+- Controller Support NVSE
 
 **Updated**
 - Sup NVSE
