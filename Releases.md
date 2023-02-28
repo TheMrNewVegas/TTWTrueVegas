@@ -25,6 +25,7 @@
 - Ammo Boxes: An Economy Fix
 - Economy Overhaul
 - Main Menu music replacer - Fallout Theme Mashup By Riftley
+- Ghouls Inflict Radiation Damage
 
 **Updated**
 - Sup NVSE
