@@ -18,6 +18,8 @@
 - WAP Static Weapon Replacers
 - Caravan Fast Travel TTW
 - B42 Bows x Consisten Pip-Map Icons
+- MTB Purchasing Addon
+- MTB Benny Steals Your Truck
 
 **Updated**
 - Sup NVSE
