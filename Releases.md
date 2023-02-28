@@ -60,6 +60,8 @@
 > Cluttered and Outdated
 - FPGE & All Patches
 > Replaced with FPGE Lite
+- Home on the Wastes Main Theme
+> This shit hurted 
 
 **Planned Additions**
 
