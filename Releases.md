@@ -50,6 +50,8 @@
 - Burrowing Creatures
 - Cazaclaws
 > Making ESP room
+- Aid UI
+> Making ESP Room/Senseless UI Clutter
 
 **Planned Additions**
 
