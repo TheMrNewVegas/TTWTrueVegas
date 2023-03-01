@@ -28,6 +28,7 @@
 - Ghouls Inflict Radiation Damage
 - Fog Based Object Culling
 - Wasteland Vampirism & Hematophage Patch (Custom Edited)
+- House on the Hill (Custom Edit)
 
 **Updated**
 - Sup NVSE
