@@ -28,6 +28,7 @@
 - Ghouls Inflict Radiation Damage
 - Fog Based Object Culling
 - Wasteland Vampirism & Hematophage Patch (Custom Edited)
+- CFWR x Consistent Pip-Maps
 
 **Updated**
 - Sup NVSE
