@@ -33,6 +33,7 @@
 - Useful Megaton Water Purifier (TTW)
 - B42 Drop Mag TTW Patch Update & Another Millenia Patch
 - Stash Organizer
+- Twin Rocks Adobe Regular
 
 **Updated**
 - Sup NVSE
@@ -81,6 +82,8 @@
 > Replaced with Stentorious Patch
 - Sortomatic
 > Replacing with Stash Organizer
+- Twin Rocks Adobe Sortomatic
+> Replaced with Regular Variant
 
 **Planned Additions**
 https://www.nexusmods.com/newvegas/mods/80105
