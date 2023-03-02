@@ -69,6 +69,12 @@
 > Replaced with FPGE Lite
 - Home on the Wastes Main Theme
 > This shit hurted 
+- Collisions Meshes, PrecisionCollisionFix, & Update
+> Save bloat preventative + utilizing NVMIM from now pn 
+- Precision Collision
+> Save bloat preventative + Utilzing NVMIM from now on
+- Unnecessary Physics
+> Save bloat preventative + Utilizing NVMIM from now on
 
 **Planned Additions**
 https://www.nexusmods.com/newvegas/mods/80105
