@@ -93,9 +93,6 @@
 - Essential Vanilla & DLC Enhancements Merged
 > Most of Whats included in this is already done
 
-**Planned Additions**
-https://www.nexusmods.com/newvegas/mods/80105
-
 ## Release 1.45c 
 
 ### Not Save safe for previous versions
