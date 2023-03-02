@@ -31,6 +31,7 @@
 - CFWR x Consistent Pip-Maps
 - Forgotten Millenia S6S Patch
 - Useful Megaton Water Purifier (TTW)
+- B42 Drop Mag TTW Patch Update & Another Millenia Patch
 
 **Updated**
 - Sup NVSE
