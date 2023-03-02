@@ -34,6 +34,7 @@
 - B42 Drop Mag TTW Patch Update & Another Millenia Patch
 - Stash Organizer
 - Twin Rocks Adobe Regular
+- Casino Exchange All & Voiced NPC's Addon
 
 **Updated**
 - Sup NVSE
