@@ -32,6 +32,7 @@
 - Forgotten Millenia S6S Patch
 - Useful Megaton Water Purifier (TTW)
 - B42 Drop Mag TTW Patch Update & Another Millenia Patch
+- Stash Organizer
 
 **Updated**
 - Sup NVSE
@@ -78,6 +79,8 @@
 > Save bloat preventative + Utilizing NVMIM from now on
 - b42 Dropmag AM Patch
 > Replaced with Stentorious Patch
+- Sortomatic
+> Replacing with Stash Organizer
 
 **Planned Additions**
 https://www.nexusmods.com/newvegas/mods/80105
