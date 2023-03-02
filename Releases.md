@@ -55,6 +55,12 @@
 > I have no clue why we had this outdated and was under the assumption we did update this a long time ago
 - Hit's Anims: Animation Fixes
 > 10.0 to 11.0
+- Bleedless TTW
+> 1.2 to 1.3
+- Bleedless Ragdolls Patch
+> 1.0 to 1.3
+- Hits Anim Fixes
+> 11.0 to 11.5
 
 **Removed**
 - Bulletsnap 
