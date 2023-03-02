@@ -90,6 +90,8 @@
 > Replacing with Stash Organizer
 - Twin Rocks Adobe Sortomatic
 > Replaced with Regular Variant
+- Essential Vanilla & DLC Enhancements Merged
+> Most of Whats included in this is already done
 
 **Planned Additions**
 https://www.nexusmods.com/newvegas/mods/80105
