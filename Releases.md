@@ -75,6 +75,8 @@
 > Save bloat preventative + Utilzing NVMIM from now on
 - Unnecessary Physics
 > Save bloat preventative + Utilizing NVMIM from now on
+- b42 Dropmag AM Patch
+> Replaced with Stentorious Patch
 
 **Planned Additions**
 https://www.nexusmods.com/newvegas/mods/80105
