@@ -23,7 +23,6 @@
 - Controller Support NVSE & JAM Patch
 - FPGE Lite & TTW Patch
 - Ammo Boxes: An Economy Fix
-- Economy Overhaul
 - Main Menu music replacer - Fallout Theme Mashup By Riftley
 - Ghouls Inflict Radiation Damage
 - Fog Based Object Culling
@@ -35,6 +34,7 @@
 - Stash Organizer
 - Twin Rocks Adobe Regular
 - Casino Exchange All & Voiced NPC's Addon
+- CFEE TTW
 
 **Updated**
 - Sup NVSE
@@ -62,6 +62,10 @@
 > 1.0 to 1.3
 - Hits Anim Fixes
 > 11.0 to 11.5
+- Aid Addon
+> 12.01 to 13
+- Forgotten Millenia S6S Patch
+> 1.0 to 1.01
 
 **Removed**
 - Bulletsnap 
