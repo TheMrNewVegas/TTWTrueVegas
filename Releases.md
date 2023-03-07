@@ -39,6 +39,7 @@
 - Player Combat Priority
 - War Mix
 - WAP Lever Action Shotgun
+- AWO - Chinese Assault RIfle replacer (Norinco Type 93)
 
 **Updated**
 - Sup NVSE
