@@ -35,6 +35,9 @@
 - Twin Rocks Adobe Regular
 - Casino Exchange All & Voiced NPC's Addon
 - CFEE TTW
+- Brisa Almodovar Companion
+- Player Combat Priority
+- War Mix
 
 **Updated**
 - Sup NVSE
