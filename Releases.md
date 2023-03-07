@@ -39,6 +39,8 @@
 - WAP Lever Action Shotgun
 - AWO - Chinese Assault RIfle replacer (Norinco Type 93)
 - Vanilla No Hair Shine
+- Armor Damage Overhaul
+- Sweets Simple Settings
 
 **Updated**
 - Sup NVSE
