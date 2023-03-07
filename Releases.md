@@ -40,6 +40,7 @@
 - War Mix
 - WAP Lever Action Shotgun
 - AWO - Chinese Assault RIfle replacer (Norinco Type 93)
+- Vanilla No Hair Shine
 
 **Updated**
 - Sup NVSE
