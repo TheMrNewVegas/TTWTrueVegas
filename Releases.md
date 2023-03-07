@@ -34,10 +34,11 @@
 - Stash Organizer
 - Twin Rocks Adobe Regular
 - Casino Exchange All & Voiced NPC's Addon
-- CFEE TTW
+- CFEE TTW & Someguyseries patch
 - Brisa Almodovar Companion
 - Player Combat Priority
 - War Mix
+- WAP Lever Action Shotgun
 
 **Updated**
 - Sup NVSE
