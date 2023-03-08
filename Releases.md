@@ -33,7 +33,6 @@
 - Twin Rocks Adobe Regular
 - Casino Exchange All & Voiced NPC's Addon
 - CFEE TTW & Someguyseries patch
-- Brisa Almodovar Companion
 - Player Combat Priority
 - War Mix
 - WAP Lever Action Shotgun
