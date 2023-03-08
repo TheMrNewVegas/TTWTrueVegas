@@ -40,6 +40,7 @@
 - Armor Damage Overhaul
 - Sweets Simple Settings
 - Warmix TOTNW 2.0 Patch
+- JIP CCC
 
 **Updated**
 - Sup NVSE
