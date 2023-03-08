@@ -32,7 +32,6 @@
 - Stash Organizer
 - Twin Rocks Adobe Regular
 - Casino Exchange All & Voiced NPC's Addon
-- CFEE TTW & Someguyseries patch
 - Player Combat Priority
 - War Mix
 - WAP Lever Action Shotgun
