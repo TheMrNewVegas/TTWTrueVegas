@@ -39,6 +39,7 @@
 - Vanilla No Hair Shine
 - Armor Damage Overhaul
 - Sweets Simple Settings
+- Warmix TOTNW 2.0 Patch
 
 **Updated**
 - Sup NVSE
