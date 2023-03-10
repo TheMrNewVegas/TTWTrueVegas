@@ -44,6 +44,7 @@
 - Recent Loot Log
 - Fallout Alpha Rendering Tweaks
 - New Sunset Sasparilla Machine & Scriptrunner
+- Softlock Aim Assist
 
 **Updated**
 - Sup NVSE
