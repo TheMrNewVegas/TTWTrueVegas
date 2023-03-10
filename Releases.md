@@ -75,6 +75,14 @@
 > 12.01 to 13
 - Forgotten Millenia S6S Patch
 > 1.0 to 1.01
+- ShowOff NVSE
+> 1.51 to 1.55
+- R91 & Friends
+> 1.2 to 1.23
+- B42 Dropmag x R91 & Friends Patch
+> 1.1 to 1.23
+- Sweet Style Bounties
+> 1.02 to 1.03
 
 **Removed**
 - Bulletsnap 
