@@ -41,6 +41,9 @@
 - Sweets Simple Settings
 - Warmix TOTNW 2.0 Patch
 - JIP CCC
+- Recent Loot Log
+- Fallout Alpha Rendering Tweaks
+- New Sunset Sasparilla Machine & Scriptrunner
 
 **Updated**
 - Sup NVSE
