@@ -6,6 +6,30 @@
 ### Not Save safe for previous versions
 
 **Added**
+
+
+**Updated**
+- R91 & Friends
+> 1.23 to 1.234
+- Wash Yourself
+> 3.1 to 3.2
+- Purchase Items on Display
+> 1.1 to 1.2
+- TTW Springvale Garage
+> 1.5 to 1.6
+- WAP Year One Scripted Update
+> 1.4 to 1.5
+- 3D Rain
+> 1.4 to 2.0
+
+**Removed**
+
+
+## Release 1.45d
+
+### Not Save safe for previous versions
+
+**Added**
 - PSRO Scope Scissor Remover
 - B42 Corner Notify
 - Casa De New Vegas
