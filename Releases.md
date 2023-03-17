@@ -7,6 +7,8 @@
 
 **Added**
 - Exterior Emmitance Fix
+- CellHud Button Additions
+- The HUD Editor
 
 **Updated**
 - R91 & Friends
