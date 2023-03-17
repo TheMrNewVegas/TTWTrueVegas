@@ -37,6 +37,8 @@
 **Fixed**
 - The Family Missing NPC Textures
 > This was due to an overwrite in our Megapatch which we fixed/released prior to this update
+- Removed Tweak "Stealing Sends No Alarm"
+> Caused no reaction from NPC's while committing theft
 
 ## Release 1.45d
 
