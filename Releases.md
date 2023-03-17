@@ -23,6 +23,10 @@
 > 1.4 to 2.0
 - High Res Bloom NVSE
 > 3.0 to 4.0
+- Enhanced Vegas Ruins
+> 3.2 to 3.3
+- Alpha Rendering Tweaks
+> 1.0 to 2.3.1
 
 **Removed**
 
