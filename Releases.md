@@ -29,6 +29,8 @@
 > 1.0 to 2.3.1
 
 **Removed**
+- Tuxek's Lil Bits
+- 10 Year Anniversary Celebration Pack
 
 **Fixed**
 - The Family Missing NPC Textures
