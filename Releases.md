@@ -1,7 +1,7 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
-## Release 1.45e (Hotfix)
+## Release 1.45 Official
 
 ### Not Save safe for previous versions
 
