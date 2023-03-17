@@ -1,7 +1,7 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
-## Release 1.45d
+## Release 1.45e (Hotfix)
 
 ### Not Save safe for previous versions
 
@@ -21,9 +21,14 @@
 > 1.4 to 1.5
 - 3D Rain
 > 1.4 to 2.0
+- High Res Bloom NVSE
+> 3.0 to 4.0
 
 **Removed**
 
+**Fixed**
+- The Family Missing NPC Textures
+> This was due to an overwrite in our Megapatch which we fixed/released prior to this update
 
 ## Release 1.45d
 
