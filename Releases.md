@@ -1,5 +1,5 @@
 # Releases (Newest to Oldest)
-## Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
+## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
 ## Release 1.45 Official
 
