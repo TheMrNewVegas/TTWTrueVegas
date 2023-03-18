@@ -35,6 +35,8 @@
 - 10 Year Anniversary Celebration Pack
 - PAVE NV.esp
 > Only the TTW ESP needed
+- WarMix & ToTNW Patch
+> Fixed floating NPC bug
 
 **Fixed**
 - The Family Missing NPC Textures
