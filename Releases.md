@@ -8,7 +8,6 @@
 **Added**
 - Exterior Emmitance Fix
 - CellHud Button Additions
-- The HUD Editor & DarnUI TTW Patch
 
 **Updated**
 - R91 & Friends
