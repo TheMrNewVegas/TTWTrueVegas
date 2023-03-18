@@ -1,7 +1,7 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
-## Release 1.45 Official
+## Release 1.45E
 
 ### Not Save safe for previous versions
 
