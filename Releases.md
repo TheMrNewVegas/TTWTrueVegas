@@ -1,6 +1,11 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 1.45E Hotfix
+- Disabled Softlock, Players Can Enable it If They Would Like
+- Fixed Discrepancies with Preconfigured Save
+- Removed Unneeded Records from Megapatch
+
 ## Release 1.45E
 
 ### Save Safe?: Not 100% Sure, Best to Assume it Isn't
