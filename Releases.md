@@ -31,7 +31,6 @@
 
 **Removed**
 - Tuxek's Lil Bits
-- 10 Year Anniversary Celebration Pack
 - PAVE NV.esp
 > Only the TTW ESP needed
 - WarMix & ToTNW Patch
