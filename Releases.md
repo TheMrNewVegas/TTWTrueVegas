@@ -6,6 +6,7 @@
 ### Save Safe?: No
 
 **Added**
+- [Immersive Four Eyes Visuals](https://www.nexusmods.com/newvegas/mods/77356?tab=files&file_id=1000106630&nmm=1)
 
 
 **Updated**
