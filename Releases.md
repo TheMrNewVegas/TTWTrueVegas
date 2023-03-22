@@ -1,6 +1,28 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 1.45 Official
+
+### Save Safe?: No
+
+**Added**
+
+
+**Updated**
+- Fallout Alpha Rendering Tweaks
+> 2.3.1 to 2.3.2
+- Modern Button Prompts - CellHud Addition
+> 1.0 to 1.1
+- FPGEL
+> 5.2 to 5.5
+
+**Removed**
+
+
+**Fixed**
+
+
+
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
 - Fixed Discrepancies with Preconfigured Save
