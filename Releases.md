@@ -7,6 +7,7 @@
 
 **Added**
 - [Immersive Four Eyes Visuals](https://www.nexusmods.com/newvegas/mods/77356?tab=files&file_id=1000106630&nmm=1)
+- [Mobile Truck Base Hardcore Addon](https://www.nexusmods.com/newvegas/mods/80421?tab=description)
 
 
 **Updated**
@@ -18,7 +19,7 @@
 > 5.2 to 5.5
 
 **Removed**
-
+- Mobile Truck Base purchasing addon
 
 **Fixed**
 
