@@ -17,6 +17,8 @@
 > 1.0 to 1.1
 - FPGEL
 > 5.2 to 5.5
+- Benny Humbles You & Steals Your Stuff
+> 12.1 to 12.11
 
 **Removed**
 - Mobile Truck Base purchasing addon
