@@ -14,11 +14,13 @@
 - Fallout Alpha Rendering Tweaks
 > 2.3.1 to 2.3.2
 - Modern Button Prompts - CellHud Addition
-> 1.0 to 1.1
+> 1.0 to 1.1 to 1.1.1
 - FPGEL
 > 5.2 to 5.5
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11
+- Hit's Anim Fixes
+> 11.5 to 12.0
 
 **Removed**
 - Mobile Truck Base purchasing addon
