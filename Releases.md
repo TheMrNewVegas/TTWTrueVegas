@@ -21,6 +21,8 @@
 > 12.1 to 12.11
 - Hit's Anim Fixes
 > 11.5 to 12.0
+- High Res Bloom
+> 4.0 to 5.0
 
 **Removed**
 - Mobile Truck Base purchasing addon
