@@ -23,6 +23,8 @@
 > 11.5 to 12.0
 - High Res Bloom
 > 4.0 to 5.0
+- B42 Bows
+> to 1.12b
 
 **Removed**
 - Mobile Truck Base purchasing addon
