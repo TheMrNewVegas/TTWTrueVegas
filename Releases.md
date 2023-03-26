@@ -12,7 +12,7 @@
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
-> 2.3.1 to 2.3.2
+> 2.3.1 to 2.3.2 to 2.4
 - Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1
 - FPGEL
@@ -25,6 +25,8 @@
 > 4.0 to 5.0
 - B42 Bows
 > to 1.12b
+- Enhanced Vegas Ruins
+> 3.3 to 3.4
 
 **Removed**
 - Mobile Truck Base purchasing addon
