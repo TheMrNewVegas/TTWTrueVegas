@@ -27,6 +27,8 @@
 > to 1.12b
 - Enhanced Vegas Ruins
 > 3.3 to 3.4
+- Softlock Aim Assist
+> 1.0 to 1.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
