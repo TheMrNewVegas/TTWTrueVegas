@@ -12,13 +12,13 @@
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
-> 2.3.1 to 2.3.2 to 2.4
+> 2.3.1 to 2.3.2 to 2.4 to 2.4.1
 - Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1
 - FPGEL
 > 5.2 to 5.5
 - Benny Humbles You & Steals Your Stuff
-> 12.1 to 12.11
+> 12.1 to 12.11 to 12.12
 - Hit's Anim Fixes
 > 11.5 to 12.0
 - High Res Bloom
@@ -29,6 +29,9 @@
 > 3.3 to 3.4
 - Softlock Aim Assist
 > 1.0 to 1.1
+- CFWR Consistent Pipboy Icon
+> 0.3 to 0.4
+
 
 **Removed**
 - Mobile Truck Base purchasing addon
