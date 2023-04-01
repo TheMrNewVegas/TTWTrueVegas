@@ -31,6 +31,10 @@
 > 1.0 to 1.1
 - CFWR Consistent Pipboy Icon
 > 0.3 to 0.4
+- Stewies Tweaks
+> 8.6 to 8.65
+- JIP LN NVSE
+> 56.81 to 56.85
 
 
 **Removed**
