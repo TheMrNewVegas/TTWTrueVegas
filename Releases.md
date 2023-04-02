@@ -35,7 +35,12 @@
 > 8.6 to 8.65
 - JIP LN NVSE
 > 56.81 to 56.85
-
+- Masters of the Madre
+> 3.11alpha to 3.11b
+- Wash Yourself
+> 3.2 to 3.2.1 Update
+- WAP Year One & Bonus Scripted Updated
+> 1.5 to 1.51
 
 **Removed**
 - Mobile Truck Base purchasing addon
