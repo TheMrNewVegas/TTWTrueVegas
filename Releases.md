@@ -1,14 +1,17 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
-## Release 1.45 Official
+## Release 1.5
 
 ### Save Safe?: No
 
 **Added**
 - [Immersive Four Eyes Visuals](https://www.nexusmods.com/newvegas/mods/77356?tab=files&file_id=1000106630&nmm=1)
 - [Mobile Truck Base Hardcore Addon](https://www.nexusmods.com/newvegas/mods/80421?tab=description)
-
+- [Auto Activate Invisible Doors](https://www.nexusmods.com/newvegas/mods/80650)
+- [Fractal Crystals](https://www.nexusmods.com/newvegas/mods/80555)
+- [ActorCause Save Bloat Fix](https://www.nexusmods.com/newvegas/mods/80666)
+- [Classic Adobe Sloan](https://www.nexusmods.com/newvegas/mods/80385)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
@@ -46,6 +49,11 @@
 
 **Removed**
 - Mobile Truck Base purchasing addon
+- Immersive Four Eyes Visuals
+- Useful Megaton Purifier
+- 10th Anniversary Celebration Pack
+- Sunset Machine Replacer
+- Purchase Display
 
 **Fixed**
 
