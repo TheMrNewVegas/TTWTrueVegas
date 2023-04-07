@@ -12,6 +12,10 @@
 - [Fractal Crystals](https://www.nexusmods.com/newvegas/mods/80555)
 - [ActorCause Save Bloat Fix](https://www.nexusmods.com/newvegas/mods/80666)
 - [Classic Adobe Sloan](https://www.nexusmods.com/newvegas/mods/80385)
+- [Vanilla UI](https://www.moddb.com/mods/vanilla-ui-plus)
+- [UX Tool Kit](https://www.nexusmods.com/newvegas/mods/79456)
+- [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)
+- [MUX Series Interface Overhaul & Vanilla Preset](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
