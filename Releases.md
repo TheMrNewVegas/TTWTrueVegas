@@ -58,6 +58,7 @@
 - 10th Anniversary Celebration Pack
 - Sunset Machine Replacer
 - Purchase Display
+- Bleedout
 
 **Fixed**
 
