@@ -59,6 +59,7 @@
 - Sunset Machine Replacer
 - Purchase Display
 - Bleedout
+- Bleedless & Bleedless Better Dmg Multipliers
 
 **Fixed**
 
