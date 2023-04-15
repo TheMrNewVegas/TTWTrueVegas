@@ -16,6 +16,7 @@
 - [UX Tool Kit](https://www.nexusmods.com/newvegas/mods/79456)
 - [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)
 - [MUX Series Interface Overhaul & Vanilla Preset](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
+- [DNW  Sierra Madre Grand Entrance Patch](https://www.nexusmods.com/newvegas/mods/75437?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
@@ -50,6 +51,22 @@
 > 1.5 to 1.51
 - Animated Player Interactions
 > 1.4.1 to 1.6
+- AnhNVSE
+> 1.2.3 to 1.3.0
+- MUX Series Interface Overhaul
+> 1.0 to 1.2
+- MUX Vanilla 
+> 1.0 to 1.1
+- Simple Open Strip
+> 1.6 to 1.7
+- Animated Player Interactions
+> 1.6 to 1.6.1
+- Classic Adobe Sloan (Replaced with NVB II Version)
+> 1.0 to 1.1
+- Mojave Express Delivery Work
+> 2.3 to 2.4
+- Desert Natural Weathers
+> 6.2.5 to 6.3.2
 
 **Removed**
 - Mobile Truck Base purchasing addon
