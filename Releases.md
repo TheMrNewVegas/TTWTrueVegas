@@ -67,6 +67,8 @@
 > 2.3 to 2.4
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2
+- UX Collection
+> 1.0beta to 1.3-beta
 
 **Removed**
 - Mobile Truck Base purchasing addon
