@@ -61,7 +61,7 @@
 > 1.6 to 1.7
 - Animated Player Interactions
 > 1.6 to 1.6.1
-- Classic Adobe Sloan (Replaced with NVB II Version)
+- Classic Adobe Sloan
 > 1.0 to 1.1
 - Mojave Express Delivery Work
 > 2.3 to 2.4
