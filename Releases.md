@@ -42,21 +42,21 @@
 - Stewies Tweaks
 > 8.6 to 8.65
 - JIP LN NVSE
-> 56.81 to 56.85
+> 56.81 to 56.85 to 58.90
 - Masters of the Madre
 > 3.11alpha to 3.11b to 3.11c
 - Wash Yourself
 > 3.2 to 3.2.1 Update
-- WAP Year One & Bonus Scripted Updated
-> 1.5 to 1.51
+- WAP Year One & Bonus + Scripted Updated
+> 1.5 to 1.51 to 1.6/1.6.1 Scripted Update
 - Animated Player Interactions
 > 1.4.1 to 1.6
 - AnhNVSE
 > 1.2.3 to 1.3.0
 - MUX Series Interface Overhaul
-> 1.0 to 1.2
+> 1.0 to 1.2 to 1.4
 - MUX Vanilla 
-> 1.0 to 1.1
+> 1.0 to 1.1 to 1.3
 - Simple Open Strip
 > 1.6 to 1.7
 - Animated Player Interactions
@@ -68,7 +68,9 @@
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2
 - UX Collection
-> 1.0beta to 1.3-beta
+> 1.0beta to 1.3-beta to 1.7
+- MAPMO
+> 4.4 to 4.5.3
 
 **Removed**
 - Mobile Truck Base purchasing addon
