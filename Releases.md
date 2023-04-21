@@ -17,6 +17,7 @@
 - [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)
 - [MUX Series Interface Overhaul & Vanilla Preset](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 - [DNW  Sierra Madre Grand Entrance Patch](https://www.nexusmods.com/newvegas/mods/75437?tab=files)
+- [Order a Meal](https://www.nexusmods.com/newvegas/mods/80864?tab=description)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
