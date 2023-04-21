@@ -82,6 +82,7 @@
 - Purchase Display
 - Bleedout
 - Bleedless & Bleedless Better Dmg Multipliers
+- Working on the Chain Gang
 
 **Fixed**
 
