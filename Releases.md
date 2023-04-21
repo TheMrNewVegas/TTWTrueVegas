@@ -44,7 +44,7 @@
 - JIP LN NVSE
 > 56.81 to 56.85 to 58.90
 - Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c
+> 3.11alpha to 3.11b to 3.11c to 3.11
 - Wash Yourself
 > 3.2 to 3.2.1 Update
 - WAP Year One & Bonus + Scripted Updated
