@@ -30,7 +30,7 @@
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11 to 12.12
 - Hit's Anim Fixes
-> 11.5 to 12.0
+> 11.5 to 12.0 to 13.0
 - High Res Bloom
 > 4.0 to 5.0
 - B42 Bows
@@ -70,9 +70,11 @@
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2
 - UX Collection
-> 1.0beta to 1.3-beta to 1.7
+> 1.0beta to 1.3-beta to 1.7 to 1.8A
 - MAPMO
 > 4.4 to 4.5.3
+- Enhanced Landscapes
+> 1.5 to 1.5.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
