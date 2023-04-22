@@ -19,6 +19,8 @@
 - [DNW  Sierra Madre Grand Entrance Patch](https://www.nexusmods.com/newvegas/mods/75437?tab=files)
 - [Order a Meal](https://www.nexusmods.com/newvegas/mods/80864?tab=description)
 - [DNW Sandstorms](https://www.nexusmods.com/newvegas/mods/80817)
+- [Sigma 3rd Person Movement Animations](https://www.nexusmods.com/newvegas/mods/80699?tab=description)
+- [360 Movement Patch for 3rd person Movement Animations Overhaul](https://www.nexusmods.com/newvegas/mods/80812)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
