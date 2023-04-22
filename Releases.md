@@ -21,6 +21,7 @@
 - [DNW Sandstorms](https://www.nexusmods.com/newvegas/mods/80817)
 - [Sigma 3rd Person Movement Animations](https://www.nexusmods.com/newvegas/mods/80699?tab=description)
 - [360 Movement Patch for 3rd person Movement Animations Overhaul](https://www.nexusmods.com/newvegas/mods/80812)
+- [JSRS & CFWR, Another Millenia, & TTW Patches](https://www.nexusmods.com/newvegas/mods/80841?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
@@ -88,6 +89,8 @@
 - Bleedout
 - Bleedless & Bleedless Better Dmg Multipliers
 - Working on the Chain Gang
+- AWSOME
+> Found a better alternative
 
 **Fixed**
 
