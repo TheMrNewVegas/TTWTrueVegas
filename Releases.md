@@ -73,11 +73,15 @@
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2
 - UX Collection
-> 1.0beta to 1.3-beta to 1.7 to 1.8A
+> 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9
 - MAPMO
 > 4.4 to 4.5.3
 - Enhanced Landscapes
 > 1.5 to 1.5.1
+- 3rd person Movement Animations Overhaul
+> 1.0 to Final
+- DNW Sandstorms
+> 1.3 to 2.0
 
 **Removed**
 - Mobile Truck Base purchasing addon
