@@ -24,6 +24,9 @@
 - [JSRS, FNV, CFWR, Another Millenia, & TTW Sounds](https://www.nexusmods.com/newvegas/mods/80841?tab=files)
 - [Mojave Express Overhaul](https://www.nexusmods.com/newvegas/mods/72557/?tab=description&jump_to_comment=95972693)
 - [Mojave Express Drop Off](https://www.nexusmods.com/newvegas/mods/80886)
+- [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437?tab=files)
+- [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
+- [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
