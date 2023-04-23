@@ -21,7 +21,7 @@
 - [DNW Sandstorms](https://www.nexusmods.com/newvegas/mods/80817)
 - [Sigma 3rd Person Movement Animations](https://www.nexusmods.com/newvegas/mods/80699?tab=description)
 - [360 Movement Patch for 3rd person Movement Animations Overhaul](https://www.nexusmods.com/newvegas/mods/80812)
-- [JSRS & CFWR, Another Millenia, & TTW Patches](https://www.nexusmods.com/newvegas/mods/80841?tab=files)
+- [JSRS, FNV, CFWR, Another Millenia, & TTW Sounds](https://www.nexusmods.com/newvegas/mods/80841?tab=files)
 - [Mojave Express Overhaul](https://www.nexusmods.com/newvegas/mods/72557/?tab=description&jump_to_comment=95972693)
 - [Mojave Express Drop Off](https://www.nexusmods.com/newvegas/mods/80886)
 
