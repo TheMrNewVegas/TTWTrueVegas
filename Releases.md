@@ -84,6 +84,10 @@
 > 1.0 to Final
 - DNW Sandstorms
 > 1.3 to 2.0
+- JSRS 
+> 1.0.1 to 1.1
+- JSRS
+> 1.0 to 1.0.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
