@@ -28,6 +28,7 @@
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
 - [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
+- [Desert Natural Realism Redux](https://www.nexusmods.com/newvegas/mods/80902?tab=description)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
