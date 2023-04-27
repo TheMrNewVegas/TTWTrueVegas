@@ -27,6 +27,7 @@
 - [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437?tab=files)
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
+- [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
@@ -62,11 +63,11 @@
 - Animated Player Interactions
 > 1.4.1 to 1.6
 - AnhNVSE
-> 1.2.3 to 1.3.0
+> 1.2.3 to 1.3.0 to 1.3.1
 - MUX Series Interface Overhaul
-> 1.0 to 1.2 to 1.4
+> 1.0 to 1.2 to 1.4 to 1.6
 - MUX Vanilla 
-> 1.0 to 1.1 to 1.3
+> 1.0 to 1.1 to 1.3 to 1.5
 - Simple Open Strip
 > 1.6 to 1.7
 - Animated Player Interactions
@@ -86,9 +87,15 @@
 - DNW Sandstorms
 > 1.3 to 2.0
 - JSRS 
-> 1.0.1 to 1.1
+> 1.0.1 to 1.1 to 1.2
 - JSRS CFWR
 > 1.0 to 1.0.1
+- JSRS TTW
+> 1.0 to 1.0.1
+- Order a Meal Tweaked
+> 1.0 to 2.0
+- TTW Merged Collectable Quests
+> 1.0 to 2.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
