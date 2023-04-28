@@ -104,7 +104,7 @@
 - Another Millenia
 > 2.2D to 2.3
 - Another Millenia Hotfix
-> 2.3A
+> 2.3A to 2.3
 
 **Removed**
 - Mobile Truck Base purchasing addon
