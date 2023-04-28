@@ -29,6 +29,8 @@
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
 - [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 - [Desert Natural Realism Redux](https://www.nexusmods.com/newvegas/mods/80902?tab=description)
+- [Another Millenia json fix for Stalker field rifle & knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
+- [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
@@ -90,13 +92,19 @@
 - JSRS 
 > 1.0.1 to 1.1 to 1.2
 - JSRS CFWR
-> 1.0 to 1.0.1
+> 1.0 to 1.0.1 to 1.02
 - JSRS TTW
 > 1.0 to 1.0.1
 - Order a Meal Tweaked
 > 1.0 to 2.0
 - TTW Merged Collectable Quests
-> 1.0 to 2.1
+> 1.0 to 2.1 to 3.1
+- PSRO
+> 2.1 to 2.1.6
+- Another Millenia
+> 2.2D to 2.3
+- Another Millenia Hotfix
+> 2.3A
 
 **Removed**
 - Mobile Truck Base purchasing addon
