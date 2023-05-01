@@ -56,7 +56,7 @@
 - Stewies Tweaks
 > 8.6 to 8.65
 - JIP LN NVSE
-> 56.81 to 56.85 to 58.90
+> 56.81 to 56.85 to 56.90 to 56.95
 - Masters of the Madre
 > 3.11alpha to 3.11b to 3.11c to 3.11d
 - Wash Yourself
@@ -95,6 +95,8 @@
 > 1.0 to 1.0.1 to 1.02
 - JSRS TTW
 > 1.0 to 1.0.1
+- JSRS AM
+> 1.0 to 1.1
 - Order a Meal Tweaked
 > 1.0 to 2.0
 - TTW Merged Collectable Quests
@@ -105,6 +107,15 @@
 > 2.2D to 2.3
 - Another Millenia Hotfix
 > 2.3A to 2.3
+- NVTF
+> 10.1beta to 10.2
+- B42 Dropmag AM Patch
+> 1.0 to 2.3
+- Wasteland Starting Gear DC
+> 1.0fix2 to 1.03
+- A World of Less Pain Revised
+> 3.5 to 3.6
+
 
 **Removed**
 - Mobile Truck Base purchasing addon
