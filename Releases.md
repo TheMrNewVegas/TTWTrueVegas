@@ -94,7 +94,7 @@
 - JSRS CFWR
 > 1.0 to 1.0.1 to 1.02
 - JSRS TTW
-> 1.0 to 1.0.1
+> 1.0 to 1.0.1 to 1.0.2
 - JSRS AM
 > 1.0 to 1.1
 - Order a Meal Tweaked
@@ -108,14 +108,15 @@
 - Another Millenia Hotfix
 > 2.3A to 2.3
 - NVTF
-> 10.1beta to 10.2
+> 10.1beta to 10.2 to 10.2.2beta
 - B42 Dropmag AM Patch
 > 1.0 to 2.3
 - Wasteland Starting Gear DC
 > 1.0fix2 to 1.03
 - A World of Less Pain Revised
 > 3.5 to 3.6
-
+- Physically Based Parkware
+> 1.0 to 1.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
