@@ -27,12 +27,14 @@
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
 - [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
-- [Another Millenia json fix for Stalker field rifle & knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
+- [Another Millenia knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
 - [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
+- [Another Millenia Hotfix 5](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
+- [AM TTW Cell Forward](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
 
 **Updated**
 - Fallout Alpha Rendering Tweaks
-> 2.3.1 to 2.3.2 to 2.4 to 2.4.1
+> 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1
 - FPGEL
@@ -115,6 +117,10 @@
 > 3.5 to 3.6
 - Physically Based Parkware
 > 1.0 to 1.1
+- Aid Addon
+> 13.0 to 13.01
+- Another Millenia KNVSE Pack
+> 1.0 to 1.1
 
 **Removed**
 - Mobile Truck Base purchasing addon
@@ -128,6 +134,7 @@
 - Working on the Chain Gang
 - AWSOME
 > Found a better alternative
+- Another Millenia json fix for Stalker field rifle
 
 **Fixed**
 
