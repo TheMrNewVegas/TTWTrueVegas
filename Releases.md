@@ -6,7 +6,6 @@
 ### Save Safe?: No
 
 **Added**
-- [Immersive Four Eyes Visuals](https://www.nexusmods.com/newvegas/mods/77356?tab=files&file_id=1000106630&nmm=1)
 - [Mobile Truck Base Hardcore Addon](https://www.nexusmods.com/newvegas/mods/80421?tab=description)
 - [Auto Activate Invisible Doors](https://www.nexusmods.com/newvegas/mods/80650)
 - [Fractal Crystals](https://www.nexusmods.com/newvegas/mods/80555)
@@ -28,7 +27,6 @@
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
 - [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
-- [Desert Natural Realism Redux](https://www.nexusmods.com/newvegas/mods/80902?tab=description)
 - [Another Millenia json fix for Stalker field rifle & knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
 - [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
 
@@ -80,7 +78,7 @@
 - Mojave Express Delivery Work
 > 2.3 to 2.4
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2
+> 6.2.5 to 6.3.2 to 6.4
 - UX Collection
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9
 - Enhanced Landscapes
