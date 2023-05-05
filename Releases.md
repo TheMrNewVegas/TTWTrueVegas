@@ -80,7 +80,7 @@
 - Mojave Express Delivery Work
 > 2.3 to 2.4
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
 - UX Collection
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9
 - Enhanced Landscapes
@@ -104,13 +104,13 @@
 - PSRO
 > 2.1 to 2.1.6
 - Another Millenia
-> 2.2D to 2.3
+> 2.2D to 2.3 to 2.3a
 - Another Millenia Hotfix
 > 2.3A to 2.3
 - NVTF
 > 10.1beta to 10.2 to 10.2.2beta
 - B42 Dropmag AM Patch
-> 1.0 to 2.3
+> 1.0 to 2.3 to 2.3H5
 - Wasteland Starting Gear DC
 > 1.0fix2 to 1.03
 - A World of Less Pain Revised
@@ -121,6 +121,10 @@
 > 13.0 to 13.01
 - Another Millenia KNVSE Pack
 > 1.0 to 1.1
+- Simple Open Strip
+> 1.7 to 1.8
+- Wash Yourself
+> 3.2/3.2.1 Update to 3.3
 
 **Removed**
 - Mobile Truck Base purchasing addon
