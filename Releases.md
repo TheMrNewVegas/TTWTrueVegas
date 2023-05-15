@@ -45,8 +45,14 @@
 > 3.5 to 3.6
 - Aid Addon
 > 13.0 to 13.01
+- Alternative Repairing
+> 2.9.1 to 2.10
 - AnhNVSE
 > 1.2.3 to 1.3.0 to 1.3.1
+- Animated Ingestibles Scripted Update Patch
+> 4.0.6 to 4.0.9b
+- Animated Ingestibles NCW Imports
+> NKW.Imports.Fixed to NKW.Imports.2
 - Animated Player Interactions
 > 1.4.1 to 1.6 to 1.6.1
 - Another Millenia
@@ -61,14 +67,20 @@
 > 1.0 to 2.3 to 2.3H5
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11 to 12.12
+- Centurion Homestead
+> 1.0 to 2.0
 - CFWR Consistent Pipboy Icon
 > 0.3 to 0.4
 - Classic Adobe Sloan
 > 1.0 to 1.1
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2
 - DNW Sandstorms
 > 1.3 to 2.0
+- Dos Osos Veterans Club
+> 1.0 to 2.0
+- Dust Devil Adobe Home
+> 1.0 to 2.0
 - Enhanced Landscapes
 > 1.5 to 1.5.1
 - Enhanced Vegas Ruins
@@ -77,6 +89,8 @@
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
 > 5.2 to 5.5
+- FPS Leaning
+> 2.0 to 2.1
 - Geck Extender
 > 0.38 to 0.39
 - High Res Bloom
@@ -93,14 +107,18 @@
 > 1.0 to 1.0.1 to 1.02
 - JSRS TTW
 > 1.0 to 1.0.1 to 1.0.2
+- Little Apocalypse
+> 1.0 to 2.1
 - Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c to 3.11d
+> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f
 
 ~~- Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1~~
 
 - Mojave Express Delivery Work
 > 2.3 to 2.4
+- Mojave Merchants & Desert Dealers
+> 1.30.20 to 1.30.30
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
 > 1.0 to 1.2 to 1.4 to 1.6 to 2.6
 
@@ -125,6 +143,8 @@
 > 8.6 to 8.65
 - TTW Merged Collectable Quests
 > 1.0 to 2.1 to 3.1
+-TTW Mothership Zeta Rehaul
+> 3.4 to 3.5
 
 ~~- UX Collection
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9~~
