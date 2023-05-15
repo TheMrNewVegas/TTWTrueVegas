@@ -74,8 +74,10 @@
 > 1.2.3 to 1.3.0 to 1.3.1
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
 > 1.0 to 1.2 to 1.4 to 1.6 to 2.6
+
 ~~- MUX Vanilla 
 > 1.0 to 1.1 to 1.3 to 1.5~~
+
 - Simple Open Strip
 > 1.6 to 1.7
 - Animated Player Interactions
@@ -86,8 +88,10 @@
 > 2.3 to 2.4
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
+
 ~~- UX Collection
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9~~
+
 - Enhanced Landscapes
 > 1.5 to 1.5.1
 - 3rd person Movement Animations Overhaul
