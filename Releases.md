@@ -13,8 +13,9 @@
 - [Classic Adobe Sloan](https://www.nexusmods.com/newvegas/mods/80385)
 - [Vanilla UI](https://www.moddb.com/mods/vanilla-ui-plus)
 - [UX Tool Kit](https://www.nexusmods.com/newvegas/mods/79456)
-- [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)
-- [MUX Series Interface Overhaul & Vanilla Preset](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
+~~- [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)~~
+- [MUX Series Interface Overhaul & ~~Vanilla Enhanced~~](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
+> As of 2.6, this Interface Overhaul Now Encompasses UX Resources, Vanilla Interface, & the Collection Hence Why The Additions Are Crossed Out
 - [DNW  Sierra Madre Grand Entrance Patch](https://www.nexusmods.com/newvegas/mods/75437?tab=files)
 - [Order a Meal - Tweaked](https://www.nexusmods.com/newvegas/mods/80869?tab=description)
 - [DNW Sandstorms](https://www.nexusmods.com/newvegas/mods/80817)
@@ -26,7 +27,7 @@
 - [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437?tab=files)
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
-- [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
+~~- [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)~~
 - [Another Millenia knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
 - [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
 - [Another Millenia Hotfix 5](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
@@ -56,7 +57,7 @@
 - Stewies Tweaks
 > 8.6 to 8.65
 - JIP LN NVSE
-> 56.81 to 56.85 to 56.90 to 56.95
+> 56.81 to 56.85 to 56.90 to 56.95 to 57.01
 - Masters of the Madre
 > 3.11alpha to 3.11b to 3.11c to 3.11d
 - Wash Yourself
@@ -67,10 +68,10 @@
 > 1.4.1 to 1.6
 - AnhNVSE
 > 1.2.3 to 1.3.0 to 1.3.1
-- MUX Series Interface Overhaul
-> 1.0 to 1.2 to 1.4 to 1.6
-- MUX Vanilla 
-> 1.0 to 1.1 to 1.3 to 1.5
+- MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
+> 1.0 to 1.2 to 1.4 to 1.6 to 2.6
+~~- MUX Vanilla 
+> 1.0 to 1.1 to 1.3 to 1.5~~
 - Simple Open Strip
 > 1.6 to 1.7
 - Animated Player Interactions
@@ -81,8 +82,8 @@
 > 2.3 to 2.4
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
-- UX Collection
-> 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9
+~~- UX Collection
+> 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9~~
 - Enhanced Landscapes
 > 1.5 to 1.5.1
 - 3rd person Movement Animations Overhaul
@@ -125,6 +126,12 @@
 > 1.7 to 1.8
 - Wash Yourself
 > 3.2/3.2.1 Update to 3.3
+- ShowOff NVSE
+> 1.55 to 1.60
+- Geck Extender
+> 0.38 to 0.39
+- UX Toolkit
+> 1.3 to 1.4b
 
 **Removed**
 - Mobile Truck Base purchasing addon
