@@ -13,7 +13,9 @@
 - [Classic Adobe Sloan](https://www.nexusmods.com/newvegas/mods/80385)
 - [Vanilla UI](https://www.moddb.com/mods/vanilla-ui-plus)
 - [UX Tool Kit](https://www.nexusmods.com/newvegas/mods/79456)
+
 ~~- [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)~~
+
 - [MUX Series Interface Overhaul & ~~Vanilla Enhanced~~](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 > As of 2.6, this Interface Overhaul Now Encompasses UX Resources, Vanilla Interface, & the Collection Hence Why The Additions Are Crossed Out
 - [DNW  Sierra Madre Grand Entrance Patch](https://www.nexusmods.com/newvegas/mods/75437?tab=files)
@@ -27,7 +29,9 @@
 - [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437?tab=files)
 - [B42 Inject - Season 1 & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80531?tab=files)
 - [B42 Inject - Animated Ingestibles Patch & Sawyerbatty Patch](https://www.nexusmods.com/newvegas/mods/80535)
+
 ~~- [MUX Series Ressource](https://www.nexusmods.com/newvegas/mods/80642?tab=files)~~
+
 - [Another Millenia knvse Pack](https://www.nexusmods.com/newvegas/mods/76133)
 - [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
 - [Another Millenia Hotfix 5](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
