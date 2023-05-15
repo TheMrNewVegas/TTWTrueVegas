@@ -38,108 +38,105 @@
 - [AM TTW Cell Forward](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
 
 **Updated**
-- Fallout Alpha Rendering Tweaks
-> 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
-- Modern Button Prompts - CellHud Addition
-> 1.0 to 1.1 to 1.1.1
-- FPGEL
-> 5.2 to 5.5
-- Benny Humbles You & Steals Your Stuff
-> 12.1 to 12.11 to 12.12
-- Hit's Anim Fixes
-> 11.5 to 12.0 to 13.0
-- High Res Bloom
-> 4.0 to 5.0
-- B42 Bows
-> to 1.12b
-- Enhanced Vegas Ruins
-> 3.3 to 3.4
-- Softlock Aim Assist
-> 1.0 to 1.1
-- CFWR Consistent Pipboy Icon
-> 0.3 to 0.4
-- Stewies Tweaks
-> 8.6 to 8.65
-- JIP LN NVSE
-> 56.81 to 56.85 to 56.90 to 56.95 to 57.01
-- Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c to 3.11d
-- Wash Yourself
-> 3.2 to 3.2.1 Update
-- WAP Year One & Bonus + Scripted Updated
-> 1.5 to 1.51 to 1.6/1.6.1 Scripted Update
-- Animated Player Interactions
-> 1.4.1 to 1.6
+
+- 3rd person Movement Animations Overhaul
+> 1.0 to Final
+- A World of Less Pain Revised
+> 3.5 to 3.6
+- Aid Addon
+> 13.0 to 13.01
 - AnhNVSE
 > 1.2.3 to 1.3.0 to 1.3.1
+- Animated Player Interactions
+> 1.4.1 to 1.6 to 1.6.1
+- Another Millenia
+> 2.2D to 2.3 to 2.3a
+- Another Millenia Hotfix
+> 2.3A to 2.3
+- Another Millenia KNVSE Pack
+> 1.0 to 1.1
+- B42 Bows
+> to 1.12b
+- B42 Dropmag AM Patch
+> 1.0 to 2.3 to 2.3H5
+- Benny Humbles You & Steals Your Stuff
+> 12.1 to 12.11 to 12.12
+- CFWR Consistent Pipboy Icon
+> 0.3 to 0.4
+- Classic Adobe Sloan
+> 1.0 to 1.1
+- Desert Natural Weathers
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
+- DNW Sandstorms
+> 1.3 to 2.0
+- Enhanced Landscapes
+> 1.5 to 1.5.1
+- Enhanced Vegas Ruins
+> 3.3 to 3.4
+- Fallout Alpha Rendering Tweaks
+> 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
+- FPGEL
+> 5.2 to 5.5
+- Geck Extender
+> 0.38 to 0.39
+- High Res Bloom
+> 4.0 to 5.0
+- Hit's Anim Fixes
+> 11.5 to 12.0 to 13.0
+- JIP LN NVSE
+> 56.81 to 56.85 to 56.90 to 56.95 to 57.01
+- JSRS 
+> 1.0.1 to 1.1 to 1.2
+- JSRS AM
+> 1.0 to 1.1
+- JSRS CFWR
+> 1.0 to 1.0.1 to 1.02
+- JSRS TTW
+> 1.0 to 1.0.1 to 1.0.2
+- Masters of the Madre
+> 3.11alpha to 3.11b to 3.11c to 3.11d
+
+~~- Modern Button Prompts - CellHud Addition
+> 1.0 to 1.1 to 1.1.1~~
+
+- Mojave Express Delivery Work
+> 2.3 to 2.4
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
 > 1.0 to 1.2 to 1.4 to 1.6 to 2.6
 
 ~~- MUX Vanilla 
 > 1.0 to 1.1 to 1.3 to 1.5~~
 
-- Simple Open Strip
-> 1.6 to 1.7
-- Animated Player Interactions
-> 1.6 to 1.6.1
-- Classic Adobe Sloan
+- NVTF
+> 10.1beta to 10.2 to 10.2.2beta
+- Order a Meal Tweaked
+> 1.0 to 2.0
+- Physically Based Parkware
 > 1.0 to 1.1
-- Mojave Express Delivery Work
-> 2.3 to 2.4
-- Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1
+- PSRO
+> 2.1 to 2.1.6
+- ShowOff NVSE
+> 1.55 to 1.60
+- Simple Open Strip
+> 1.6 to 1.7 to 1.8
+- Softlock Aim Assist
+> 1.0 to 1.1
+- Stewies Tweaks
+> 8.6 to 8.65
+- TTW Merged Collectable Quests
+> 1.0 to 2.1 to 3.1
 
 ~~- UX Collection
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9~~
 
-- Enhanced Landscapes
-> 1.5 to 1.5.1
-- 3rd person Movement Animations Overhaul
-> 1.0 to Final
-- DNW Sandstorms
-> 1.3 to 2.0
-- JSRS 
-> 1.0.1 to 1.1 to 1.2
-- JSRS CFWR
-> 1.0 to 1.0.1 to 1.02
-- JSRS TTW
-> 1.0 to 1.0.1 to 1.0.2
-- JSRS AM
-> 1.0 to 1.1
-- Order a Meal Tweaked
-> 1.0 to 2.0
-- TTW Merged Collectable Quests
-> 1.0 to 2.1 to 3.1
-- PSRO
-> 2.1 to 2.1.6
-- Another Millenia
-> 2.2D to 2.3 to 2.3a
-- Another Millenia Hotfix
-> 2.3A to 2.3
-- NVTF
-> 10.1beta to 10.2 to 10.2.2beta
-- B42 Dropmag AM Patch
-> 1.0 to 2.3 to 2.3H5
-- Wasteland Starting Gear DC
-> 1.0fix2 to 1.03
-- A World of Less Pain Revised
-> 3.5 to 3.6
-- Physically Based Parkware
-> 1.0 to 1.1
-- Aid Addon
-> 13.0 to 13.01
-- Another Millenia KNVSE Pack
-> 1.0 to 1.1
-- Simple Open Strip
-> 1.7 to 1.8
-- Wash Yourself
-> 3.2/3.2.1 Update to 3.3
-- ShowOff NVSE
-> 1.55 to 1.60
-- Geck Extender
-> 0.38 to 0.39
 - UX Toolkit
 > 1.3 to 1.4b
+- WAP Year One & Bonus + Scripted Updated
+> 1.5 to 1.51 to 1.6/1.6.1 Scripted Update
+- Wash Yourself
+> 3.2 to 3.2.1 Update to 3.3
+- Wasteland Starting Gear DC
+> 1.0fix2 to 1.03
 
 **Removed**
 - Mobile Truck Base purchasing addon
