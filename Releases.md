@@ -45,6 +45,12 @@
 - [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
 - [Benny Locks You Out of DC](https://www.nexusmods.com/newvegas/mods/81023?tab=files)
 - [Fallout 3 HD Overhaul Pt 1, 2 & MSZ](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
+- [Limes Mormon Fort Overhaul](https://www.nexusmods.com/newvegas/mods/75403?tab=files)
+- [WAP TTW Compat Patch, Hotfix 1.1, & KneeCapper Files](https://www.nexusmods.com/newvegas/mods/80736?tab=files)
+- [Lumen](https://www.nexusmods.com/newvegas/mods/81060)
+- [EVP 2.0, NVR Patch, & Real Unique Flame Weapons](https://www.nexusmods.com/newvegas/mods/80000?tab=description)
+- [JSRS DC Arsenal Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
+- [B42 Inertia](https://www.nexusmods.com/newvegas/mods/64335?tab=files)
 
 **Updated**
 
