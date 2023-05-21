@@ -201,6 +201,7 @@
 - Big Town Extensions
 - Washington's Malevolence & B42 Patch
 - Casual Creatures & Casual Point Lookout
+- Mojave Squads
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
