@@ -44,6 +44,7 @@
 > Casual Creatures & Casual Point Lookout: Also adds Cars are Harder to Explode, Explosive Ordnance, and Destructible Radios
 - [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
 - [Benny Locks You Out of DC](https://www.nexusmods.com/newvegas/mods/81023?tab=files)
+- [Fallout 3 HD Overhaul Pt 1, 2 & MSZ](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
 
 **Updated**
 
