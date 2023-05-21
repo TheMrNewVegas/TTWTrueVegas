@@ -42,15 +42,17 @@
 - 3rd person Movement Animations Overhaul
 > 1.0 to Final
 - A World of Less Pain Revised
-> 3.5 to 3.6
+> 3.5 to 3.6 to 3.7
 - Aid Addon
 > 13.0 to 13.01
 - Alternative Repairing
 > 2.9.1 to 2.10
 - AnhNVSE
 > 1.2.3 to 1.3.0 to 1.3.1
-- Animated Ingestibles Scripted Update Patch
-> 4.0.6 to 4.0.9b
+- ~~Animated Ingestibles Scripted Update Patch~~
+> ~~4.0.6 to 4.0.9b~~
+- Animated Ingestibles
+> 4.0 to 4.1
 - Animated Ingestibles NCW Imports
 > NKW.Imports.Fixed to NKW.Imports.2
 - Animated Player Interactions
@@ -64,7 +66,7 @@
 - B42 Bows
 > to 1.12b
 - B42 Dropmag AM Patch
-> 1.0 to 2.3 to 2.3H5
+> 1.0 to 2.3 to 2.3H5 to 2.3B
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11 to 12.12
 - Centurion Homestead
@@ -73,8 +75,10 @@
 > 0.3 to 0.4
 - Classic Adobe Sloan
 > 1.0 to 1.1
+- Classic Fallout Weapons Remastered
+> 1.7 to 1.8
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5
 - DNW Sandstorms
 > 1.3 to 2.0
 - Dos Osos Veterans Club
@@ -102,7 +106,7 @@
 - JSRS 
 > 1.0.1 to 1.1 to 1.2
 - JSRS AM
-> 1.0 to 1.1
+> 1.0 to 1.1 to 1.11
 - JSRS CFWR
 > 1.0 to 1.0.1 to 1.02
 - JSRS TTW
@@ -110,7 +114,7 @@
 - Little Apocalypse
 > 1.0 to 2.1
 - Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f
+> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f to 3.12b
 
 ~~- Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1~~
@@ -120,7 +124,7 @@
 - Mojave Merchants & Desert Dealers
 > 1.30.20 to 1.30.30
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
-> 1.0 to 1.2 to 1.4 to 1.6 to 2.6
+> 1.0 to 1.2 to 1.4 to 1.6 to 2.6 to 3.1
 
 ~~- MUX Vanilla 
 > 1.0 to 1.1 to 1.3 to 1.5~~
@@ -133,6 +137,8 @@
 > 1.0 to 1.1
 - PSRO
 > 2.1 to 2.1.6
+- Redesigned Quarries
+> 0.1 to 0.3
 - ShowOff NVSE
 > 1.55 to 1.60
 - Simple Open Strip
@@ -141,6 +147,8 @@
 > 1.0 to 1.1
 - Stewies Tweaks
 > 8.6 to 8.65
+- Sweet 6 Shooter Perks TTW - NV
+> 15.13 to 16
 - TTW Merged Collectable Quests
 > 1.0 to 2.1 to 3.1
 -TTW Mothership Zeta Rehaul
