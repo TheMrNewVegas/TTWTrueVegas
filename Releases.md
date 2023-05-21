@@ -38,11 +38,12 @@
 - [AM TTW Cell Forward](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
 - [Combined Melee Anims](https://www.nexusmods.com/newvegas/mods/80756?tab=files)
 > Replaces Butcher Pete Complete
-- BATH
+- [BATH](https://www.nexusmods.com/newvegas/mods/75927?tab=files)
 - FPS Weapon Lowering
-- GLOSS
-- Another Millenia Shop Addon
-- Benny Locks You Out of DC
+- [GLOSS](https://www.nexusmods.com/newvegas/mods/80984)
+> Casual Creatures & Casual Point Lookout: Also adds Cars are Harder to Explode, Explosive Ordnance, and Destructible Radios
+- [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
+- [Benny Locks You Out of DC](https://www.nexusmods.com/newvegas/mods/81023?tab=files)
 
 **Updated**
 
@@ -198,6 +199,7 @@
 - S6S Prodlimen Creature Pack
 - Big Town Extensions
 - Washington's Malevolence & B42 Patch
+- Casual Creatures & Casual Point Lookout
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
