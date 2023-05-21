@@ -36,6 +36,8 @@
 - [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358?tab=files)
 - [Another Millenia Hotfix 5](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
 - [AM TTW Cell Forward](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
+- [Combined Melee Anims](https://www.nexusmods.com/newvegas/mods/80756?tab=files)
+> Replaces Butcher Pete Complete
 
 **Updated**
 
@@ -179,6 +181,7 @@
 - AWSOME
 > Found a better alternative
 - Another Millenia json fix for Stalker field rifle
+- Butcher Pete Complete Melee Animations
 
 **Fixed**
 
