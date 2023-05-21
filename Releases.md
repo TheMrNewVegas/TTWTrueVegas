@@ -38,6 +38,11 @@
 - [AM TTW Cell Forward](https://www.nexusmods.com/newvegas/mods/76133?tab=files)
 - [Combined Melee Anims](https://www.nexusmods.com/newvegas/mods/80756?tab=files)
 > Replaces Butcher Pete Complete
+- BATH
+- FPS Weapon Lowering
+- GLOSS
+- Another Millenia Shop Addon
+- Benny Locks You Out of DC
 
 **Updated**
 
