@@ -185,7 +185,14 @@
 - Food Effect Tweaks
 - Mojave Stock Exchange & TTW Addon
 - Wondrous Canteens
-
+- Quantum Trigger
+- B42 Wristwatch
+- B42 Quickthrow
+- Quickthrow Stylized HUD Icons
+- Your Buddy is Dead
+- S6S Prodlimen Creature Pack
+- Big Town Extensions
+- Washington's Malevolence & B42 Patch
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
