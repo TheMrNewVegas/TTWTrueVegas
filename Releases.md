@@ -39,7 +39,7 @@
 - [Combined Melee Anims](https://www.nexusmods.com/newvegas/mods/80756?tab=files)
 > Replaces Butcher Pete Complete
 - [BATH](https://www.nexusmods.com/newvegas/mods/75927?tab=files)
-- FPS Weapon Lowering
+- [FPS Weapon Lowering](https://www.nexusmods.com/newvegas/mods/80995)
 - [GLOSS](https://www.nexusmods.com/newvegas/mods/80984)
 > Casual Creatures & Casual Point Lookout: Also adds Cars are Harder to Explode, Explosive Ordnance, and Destructible Radios
 - [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
