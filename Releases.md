@@ -182,9 +182,9 @@
 > Found a better alternative
 - Another Millenia json fix for Stalker field rifle
 - Butcher Pete Complete Melee Animations
-
-**Fixed**
-
+- Food Effect Tweaks
+- Mojave Stock Exchange & TTW Addon
+- Wondrous Canteens
 
 
 ## Release 1.45E Hotfix
