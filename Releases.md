@@ -44,7 +44,7 @@
 > Casual Creatures & Casual Point Lookout: Also adds Cars are Harder to Explode, Explosive Ordnance, and Destructible Radios
 - [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
 - [Benny Locks You Out of DC](https://www.nexusmods.com/newvegas/mods/81023?tab=files)
-- [Fallout 3 HD Overhaul Pt 1, 2 & MSZ](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
+- [Fallout 3 HD Overhaul Pt 1, 2 The Pitt, Broken Steel, & MSZ](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
 - [Limes Mormon Fort Overhaul](https://www.nexusmods.com/newvegas/mods/75403?tab=files)
 - [WAP TTW Compat Patch, Hotfix 1.1, & KneeCapper Files](https://www.nexusmods.com/newvegas/mods/80736?tab=files)
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060)
@@ -61,7 +61,7 @@
 - Aid Addon
 > 13.0 to 13.01
 - Alternative Repairing
-> 2.9.1 to 2.10
+> 2.9.1 to 2.10 to 2.10.2
 - AnhNVSE
 > 1.2.3 to 1.3.0 to 1.3.1
 - ~~Animated Ingestibles Scripted Update Patch~~
@@ -78,12 +78,14 @@
 > 2.3A to 2.3
 - Another Millenia KNVSE Pack
 > 1.0 to 1.1
+- Another Millenia Shop Addon
+> TTW1.2 to TTW1.3
 - B42 Bows
 > to 1.12b
 - B42 Dropmag AM Patch
 > 1.0 to 2.3 to 2.3H5 to 2.3B
 - Benny Humbles You & Steals Your Stuff
-> 12.1 to 12.11 to 12.12
+> 12.1 to 12.11 to 12.12 to 12.2
 - Centurion Homestead
 > 1.0 to 2.0
 - CFWR Consistent Pipboy Icon
@@ -93,7 +95,7 @@
 - Classic Fallout Weapons Remastered
 > 1.7 to 1.8
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5 to 6.5.2
 - DNW Sandstorms
 > 1.3 to 2.0
 - Dos Osos Veterans Club
@@ -104,6 +106,10 @@
 > 1.5 to 1.5.1
 - Enhanced Vegas Ruins
 > 3.3 to 3.4
+- Fallout 3 HD Overhaul Part 1
+> 1.43 to 1.46
+- Fallout 3 HD Overhaul Part 2
+> 1.09 to 1.16
 - Fallout Alpha Rendering Tweaks
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
@@ -116,12 +122,14 @@
 > 4.0 to 5.0
 - Hit's Anim Fixes
 > 11.5 to 12.0 to 13.0
+- Immuno-Boosters Recipe for Simple Diseases
+> 1.0 to 1.6.1
 - JIP LN NVSE
 > 56.81 to 56.85 to 56.90 to 56.95 to 57.01
 - JSRS 
 > 1.0.1 to 1.1 to 1.2
 - JSRS AM
-> 1.0 to 1.1 to 1.11
+> 1.0 to 1.1 to 1.11 to 1.12
 - JSRS CFWR
 > 1.0 to 1.0.1 to 1.02
 - JSRS TTW
@@ -129,7 +137,7 @@
 - Little Apocalypse
 > 1.0 to 2.1
 - Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f to 3.12b
+> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f to 3.12b to 3.12d
 
 ~~- Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1~~
@@ -139,15 +147,19 @@
 - Mojave Merchants & Desert Dealers
 > 1.30.20 to 1.30.30
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
-> 1.0 to 1.2 to 1.4 to 1.6 to 2.6 to 3.1
+> 1.0 to 1.2 to 1.4 to 1.6 to 2.6 to 3.1 to 3.5
 
 ~~- MUX Vanilla 
 > 1.0 to 1.1 to 1.3 to 1.5~~
 
 - NVTF
-> 10.1beta to 10.2 to 10.2.2beta
+> 10.1beta to 10.2 to 10.2.2beta to 10.2.2.3
 - Order a Meal Tweaked
 > 1.0 to 2.0
+- Physically Based Chems
+> 1.3 to 1.4
+- Physically Based Kitchenware
+> 1.3 to 1.4
 - Physically Based Parkware
 > 1.0 to 1.1
 - PSRO
@@ -156,6 +168,8 @@
 > 0.1 to 0.3
 - ShowOff NVSE
 > 1.55 to 1.60
+- Simple Diseases
+> 1.5 to 1.6.1
 - Simple Open Strip
 > 1.6 to 1.7 to 1.8
 - Softlock Aim Assist
@@ -163,7 +177,9 @@
 - Stewies Tweaks
 > 8.6 to 8.65
 - Sweet 6 Shooter Perks TTW - NV
-> 15.13 to 16
+> 15.13 to 16 to 16.04
+- The Living Desert
+> 2.3 to 2.5
 - TTW Merged Collectable Quests
 > 1.0 to 2.1 to 3.1
 -TTW Mothership Zeta Rehaul
@@ -177,7 +193,7 @@
 - WAP Year One & Bonus + Scripted Updated
 > 1.5 to 1.51 to 1.6/1.6.1 Scripted Update
 - Wash Yourself
-> 3.2 to 3.2.1 Update to 3.3
+> 3.2 to 3.2.1 Update to 3.3 to 3.4
 - Wasteland Starting Gear DC
 > 1.0fix2 to 1.03
 
