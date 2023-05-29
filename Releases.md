@@ -153,7 +153,7 @@
 > 1.0 to 1.1 to 1.3 to 1.5~~
 
 - NVTF
-> 10.1beta to 10.2 to 10.2.2beta to 10.2.2.3
+> 10.1beta to 10.2 to 10.2.2beta
 - Order a Meal Tweaked
 > 1.0 to 2.0
 - Physically Based Chems
