@@ -1,6 +1,8 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+
+
 ## Release 1.5
 
 ### Save Safe?: No
@@ -51,6 +53,11 @@
 - [EVP 2.0, NVR Patch, & Real Unique Flame Weapons](https://www.nexusmods.com/newvegas/mods/80000?tab=description)
 - [JSRS DC Arsenal Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
 - [B42 Inertia](https://www.nexusmods.com/newvegas/mods/64335?tab=files)
+
+**Possible Additions**
+
+- [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
+- [Modified Gas Masks of the World](https://www.nexusmods.com/newvegas/mods/80996)
 
 **Updated**
 
