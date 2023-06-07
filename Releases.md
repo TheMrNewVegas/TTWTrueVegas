@@ -117,6 +117,7 @@
 > 1.43 to 1.46
 - Fallout 3 HD Overhaul Part 2
 > 1.09 to 1.16
+> to 2.3 (Combined Now)
 - Fallout Alpha Rendering Tweaks
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
