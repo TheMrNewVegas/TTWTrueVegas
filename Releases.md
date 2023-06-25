@@ -77,6 +77,7 @@
 - [FNV Clean Animations - Throwing Weapons](https://www.nexusmods.com/newvegas/mods/81472)
 - [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work, & Advanced Recon Gear](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
 - [Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184?tab=files)
+- [Norinco Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184)
 
 
 **Updated**
@@ -279,6 +280,8 @@ Fallout 3 HD Overhaul Part 2
 - Vampirism
 - PAVE Original & TOTNW Patches
 - Authentic Burned Man Original
+- Old Chinese AR
+- 
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
