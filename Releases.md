@@ -118,8 +118,10 @@
 > 1.0 to 2.0
 - CFWR Consistent Pipboy Icon
 > 0.3 to 0.4
-- Classic Adobe Sloan
-> 1.0 to 1.1
+
+~~Classic Adobe Sloan~~
+~~1.0 to 1.1~~
+
 - Classic Fallout Weapons Remastered
 > 1.7 to 1.8
 - Desert Natural Weathers
@@ -128,8 +130,10 @@
 > 1.3 to 2.0 to 2.4
 - Dos Osos Veterans Club
 > 1.0 to 2.0
-- Dust Devil Adobe Home
-> 1.0 to 2.0
+
+~~Dust Devil Adobe Home~~
+~~1.0 to 2.0~~
+
 - Energy Visuals Plus 2.0
 > 2.2 to 2.3
 - Enhanced Landscapes
@@ -281,7 +285,9 @@ Fallout 3 HD Overhaul Part 2
 - PAVE Original & TOTNW Patches
 - Authentic Burned Man Original
 - Old Chinese AR
-- 
+- Classic Adobe Sloan
+- Casa De New Vegas
+= Dust Devil Home
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
