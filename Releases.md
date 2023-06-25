@@ -56,11 +56,12 @@
 - [JSRS - TTW The Regulators Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
 - [Lumen Nuka World Imports Patch](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
 - [Fallout 3 HD Overhaul Point Lookout & Anchorage](https://www.nexusmods.com/fallout3/mods/25657)
+- [B42 Neglected Descriptions Nightmare Fiends & Mojave Express Courier Delivery Work](https://www.nexusmods.com/newvegas/mods/81320)
 
 
 **Possible Additions**
 
-- [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
+- [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work, & Advanced Recon Gear](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
 - [Modified Gas Masks of the World](https://www.nexusmods.com/newvegas/mods/80996)
 
 **Updated**
