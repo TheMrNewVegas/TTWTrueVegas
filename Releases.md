@@ -44,6 +44,7 @@
 - [FPS Weapon Lowering](https://www.nexusmods.com/newvegas/mods/80995)
 - [GLOSS](https://www.nexusmods.com/newvegas/mods/80984)
 > Casual Creatures & Casual Point Lookout: Also adds Cars are Harder to Explode, Explosive Ordnance, and Destructible Radios
+
 - [Another Millenia Shop Addon](https://www.nexusmods.com/newvegas/mods/81057)
 - [Benny Locks You Out of DC](https://www.nexusmods.com/newvegas/mods/81023?tab=files)
 - [Fallout 3 HD Overhaul Pt 1, 2 The Pitt, Broken Steel, & MSZ](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
@@ -60,6 +61,20 @@
 - [Vegas Tunnels](https://www.nexusmods.com/newvegas/mods/78066)
 - [Freeside Overhaul - Episode 1](https://www.nexusmods.com/newvegas/mods/81389?tab=files)
 > Replaces our Freeside Overhaul & VT AIO
+
+- [Simplified PAVE](https://www.nexusmods.com/newvegas/mods/81804?tab=files)
+- [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=files)
+- [Modern Stagger Animation](https://www.nexusmods.com/newvegas/mods/80456)
+- [CFWR Titan Animations](https://www.nexusmods.com/newvegas/mods/81419)
+- [Authentic Burned Man - Fixed & Updated](https://www.nexusmods.com/newvegas/mods/81560)
+> Replaces Authentic Burned Man
+
+- [Useful Megaton Water Purifier](https://www.nexusmods.com/newvegas/mods/80007)
+- [Useful Megaton Water Purifier - Water Overhaul Patch](https://www.nexusmods.com/newvegas/mods/81630)
+- [Desert Natural Creatures](https://www.nexusmods.com/newvegas/mods/81493)
+- [Bullet Drop](https://www.nexusmods.com/newvegas/mods/81550)
+- [Poseidon Truck Stop](https://www.nexusmods.com/newvegas/mods/81500)
+- [FNV Clean Animations - Throwing Weapons](https://www.nexusmods.com/newvegas/mods/81472)
 
 
 **Possible Additions**
@@ -265,6 +280,8 @@ Fallout 3 HD Overhaul Part 2
 - Mojave Squads
 - Awesome Crippling Effects 2 & Awesome Staggering
 - Vampirism
+- PAVE Original & TOTNW Patches
+- Authentic Burned Man Original
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
