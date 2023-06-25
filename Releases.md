@@ -57,6 +57,9 @@
 - [Lumen Nuka World Imports Patch](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
 - [Fallout 3 HD Overhaul Point Lookout & Anchorage](https://www.nexusmods.com/fallout3/mods/25657)
 - [B42 Neglected Descriptions Nightmare Fiends & Mojave Express Courier Delivery Work](https://www.nexusmods.com/newvegas/mods/81320)
+- [Vegas Tunnels](https://www.nexusmods.com/newvegas/mods/78066)
+- [Freeside Overhaul - Episode 1](https://www.nexusmods.com/newvegas/mods/81389?tab=files)
+> Replaces our Freeside Overhaul & VT AIO
 
 
 **Possible Additions**
