@@ -79,6 +79,9 @@
 - [Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184?tab=files)
 - [Norinco Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184)
 - [Depth of Field Fix NVSE](https://www.nexusmods.com/newvegas/mods/81200?tab=files)
+- [CFWR B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81798?tab=files)
+- [WAP B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81731)
+- [Another Millenia & Gun Addon B42 Scopes Patch](https://www.nexusmods.com/newvegas/mods/81735)
 
 
 **Updated**
