@@ -54,7 +54,9 @@
 - [JSRS DC Arsenal Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
 - [B42 Inertia](https://www.nexusmods.com/newvegas/mods/64335?tab=files)
 - [JSRS - TTW The Regulators Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
-- - [Lumen Nuka World Imports Patch](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
+- [Lumen Nuka World Imports Patch](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
+- [Fallout 3 HD Overhaul Point Lookout & Anchorage](https://www.nexusmods.com/fallout3/mods/25657)
+
 
 **Possible Additions**
 
