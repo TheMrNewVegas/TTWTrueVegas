@@ -53,6 +53,8 @@
 - [EVP 2.0, NVR Patch, & Real Unique Flame Weapons](https://www.nexusmods.com/newvegas/mods/80000?tab=description)
 - [JSRS DC Arsenal Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
 - [B42 Inertia](https://www.nexusmods.com/newvegas/mods/64335?tab=files)
+- [JSRS - TTW The Regulators Patch](https://www.nexusmods.com/newvegas/mods/81167?tab=files)
+- - [Lumen Nuka World Imports Patch](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
 
 **Possible Additions**
 
@@ -64,9 +66,9 @@
 - 3rd person Movement Animations Overhaul
 > 1.0 to Final
 - A World of Less Pain Revised
-> 3.5 to 3.6 to 3.7
+> 3.5 to 3.6 to 3.7 to 3.8A
 - Aid Addon
-> 13.0 to 13.01
+> 13.0 to 13.01 to 13.13
 - Alternative Repairing
 > 2.9.1 to 2.10 to 2.10.2
 - AnhNVSE
@@ -92,7 +94,7 @@
 - B42 Dropmag AM Patch
 > 1.0 to 2.3 to 2.3H5 to 2.3B
 - Benny Humbles You & Steals Your Stuff
-> 12.1 to 12.11 to 12.12 to 12.2
+> 12.1 to 12.11 to 12.12 to 12.2 to 12.31
 - Centurion Homestead
 > 1.0 to 2.0
 - CFWR Consistent Pipboy Icon
@@ -102,28 +104,33 @@
 - Classic Fallout Weapons Remastered
 > 1.7 to 1.8
 - Desert Natural Weathers
-> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5 to 6.5.2
+> 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5 to 6.5.2 to 6.6.6
 - DNW Sandstorms
-> 1.3 to 2.0
+> 1.3 to 2.0 to 2.4
 - Dos Osos Veterans Club
 > 1.0 to 2.0
 - Dust Devil Adobe Home
 > 1.0 to 2.0
+- Energy Visuals Plus 2.0
+> 2.2 to 2.3
 - Enhanced Landscapes
-> 1.5 to 1.5.1
+> 1.5 to 1.5.1 to 1.5.3
 - Enhanced Vegas Ruins
-> 3.3 to 3.4
-- Fallout 3 HD Overhaul Part 1
-> 1.43 to 1.46
-- Fallout 3 HD Overhaul Part 2
-> 1.09 to 1.16
+> 3.3 to 3.4 to 3.9
+
+~~Fallout 3 HD Overhaul Part 1
+1.43 to 1.46
+Fallout 3 HD Overhaul Part 2
+1.09 to 1.16~~
+
+-Fallout 3 HD Overhaul Main Combined
+> to 2.3 to 2.5
 - Fallout 3 HD Overhaul Broken Steel
 > 1.02 to 1.03
-> to 2.3 (Combined Now)
 - Fallout Alpha Rendering Tweaks
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
-> 5.2 to 5.5
+> 5.2 to 5.5 to 6.2
 - FPS Leaning
 > 2.0 to 2.1
 - Geck Extender
@@ -134,6 +141,10 @@
 > 11.5 to 12.0 to 13.0
 - Immuno-Boosters Recipe for Simple Diseases
 > 1.0 to 1.6.1
+- ISControl 
+> 1.4 to 2.1
+- JohnnyGuitarNVSE
+> 4.93 to 4.96b
 - JIP LN NVSE
 > 56.81 to 56.85 to 56.90 to 56.95 to 57.01
 - JSRS 
@@ -142,12 +153,18 @@
 > 1.0 to 1.1 to 1.11 to 1.12
 - JSRS CFWR
 > 1.0 to 1.0.1 to 1.02
+- JSRS DC Arsenal Patch
+> 1.0 to 2.0
 - JSRS TTW
 > 1.0 to 1.0.1 to 1.0.2
 - Little Apocalypse
 > 1.0 to 2.1
+- Lumen NV
+> 1.4 to 1.5
+- Lumen TTW Addon
+> 1.4 to 1.5
 - Masters of the Madre
-> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f to 3.12b to 3.12d
+> 3.11alpha to 3.11b to 3.11c to 3.11d to 3.11f to 3.12b to 3.12d to 3.12f
 
 ~~- Modern Button Prompts - CellHud Addition
 > 1.0 to 1.1 to 1.1.1~~
@@ -156,12 +173,16 @@
 > 2.3 to 2.4
 - Mojave Merchants & Desert Dealers
 > 1.30.20 to 1.30.30
+-Mojave Raiders
+> 1.2.3 to 1.2.4
 - MUX Series Interface Overhaul (Encompasses Vanilla Preset & UX Collection as of 2.6)
-> 1.0 to 1.2 to 1.4 to 1.6 to 2.6 to 3.1 to 3.5
+> 1.0 to 1.2 to 1.4 to 1.6 to 2.6 to 3.1 to 3.5 to 4.2
 
 ~~- MUX Vanilla 
 > 1.0 to 1.1 to 1.3 to 1.5~~
 
+- New Vegas Library Project
+> 1.0 to 
 - NVTF
 > 10.1beta to 10.2 to 10.2.2beta
 - Order a Meal Tweaked
@@ -173,7 +194,7 @@
 - Physically Based Parkware
 > 1.0 to 1.1
 - PSRO
-> 2.1 to 2.1.6
+> 2.1 to 2.1.6 to 2.1.7
 - Redesigned Quarries
 > 0.1 to 0.3
 - ShowOff NVSE
@@ -187,7 +208,7 @@
 - Stewies Tweaks
 > 8.6 to 8.65
 - Sweet 6 Shooter Perks TTW - NV
-> 15.13 to 16 to 16.04
+> 15.13 to 16 to 16.04 to 16/07
 - The Living Desert
 > 2.3 to 2.5
 - TTW Merged Collectable Quests
@@ -199,11 +220,13 @@
 > 1.0beta to 1.3-beta to 1.7 to 1.8A to 1.9~~
 
 - UX Toolkit
-> 1.3 to 1.4b
+> 1.3 to 1.4b to 1.6
 - WAP Year One & Bonus + Scripted Updated
 > 1.5 to 1.51 to 1.6/1.6.1 Scripted Update
 - Wash Yourself
 > 3.2 to 3.2.1 Update to 3.3 to 3.4
+- Wasteland Flore Overhaul
+> 3.6 to 3.6C
 - Wasteland Starting Gear DC
 > 1.0fix2 to 1.03
 
@@ -234,6 +257,7 @@
 - Washington's Malevolence & B42 Patch
 - Casual Creatures & Casual Point Lookout
 - Mojave Squads
+- Awesome Crippling Effects 2 & Awesome Staggering
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
