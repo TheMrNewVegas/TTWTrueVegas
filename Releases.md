@@ -76,6 +76,7 @@
 - [Poseidon Truck Stop](https://www.nexusmods.com/newvegas/mods/81500)
 - [FNV Clean Animations - Throwing Weapons](https://www.nexusmods.com/newvegas/mods/81472)
 - [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work, & Advanced Recon Gear](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
+- [Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184?tab=files)
 
 
 **Updated**
