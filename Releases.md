@@ -260,6 +260,7 @@ Fallout 3 HD Overhaul Part 2
 - Casual Creatures & Casual Point Lookout
 - Mojave Squads
 - Awesome Crippling Effects 2 & Awesome Staggering
+- Vampirism
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
