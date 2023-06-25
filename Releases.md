@@ -75,10 +75,6 @@
 - [Bullet Drop](https://www.nexusmods.com/newvegas/mods/81550)
 - [Poseidon Truck Stop](https://www.nexusmods.com/newvegas/mods/81500)
 - [FNV Clean Animations - Throwing Weapons](https://www.nexusmods.com/newvegas/mods/81472)
-
-
-**Possible Additions**
-
 - [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work, & Advanced Recon Gear](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
 - [Modified Gas Masks of the World](https://www.nexusmods.com/newvegas/mods/80996)
 
