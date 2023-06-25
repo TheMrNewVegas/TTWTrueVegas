@@ -78,6 +78,7 @@
 - [A Bunch of B42 Descriptions Nightmare Fiends,Mojave Express Courier Delivery Work, & Advanced Recon Gear](https://www.nexusmods.com/newvegas/mods/81320?tab=files)
 - [Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184?tab=files)
 - [Norinco Chinese AR Replacer](https://www.nexusmods.com/newvegas/mods/81184)
+- [Depth of Field Fix NVSE](https://www.nexusmods.com/newvegas/mods/81200?tab=files)
 
 
 **Updated**
