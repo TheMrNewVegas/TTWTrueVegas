@@ -85,6 +85,7 @@
 - [CFWR B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81798?tab=files)
 - [WAP B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81731)
 - [Another Millenia & Gun Addon B42 Scopes Patch](https://www.nexusmods.com/newvegas/mods/81735)
+- [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175?tab=files)
 
 
 **Updated**
