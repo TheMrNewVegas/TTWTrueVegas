@@ -263,6 +263,7 @@ Fallout 3 HD Overhaul Part 2
 
 **Removed**
 - Mobile Truck Base purchasing addon
+- Pointlight Flashlight (And Piplight)
 - Immersive Four Eyes Visuals
 - Useful Megaton Purifier
 - 10th Anniversary Celebration Pack
