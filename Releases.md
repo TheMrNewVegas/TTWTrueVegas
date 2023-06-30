@@ -87,6 +87,7 @@
 - [Another Millenia & Gun Addon B42 Scopes Patch](https://www.nexusmods.com/newvegas/mods/81735)
 - [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175?tab=files)
 - [Smoothlight Pipboy Light](https://www.nexusmods.com/newvegas/mods/74831?tab=files)
+- [Springvale Garage & Friends Patch](https://www.nexusmods.com/newvegas/mods/80340?tab=files)
 
 
 **Updated**
