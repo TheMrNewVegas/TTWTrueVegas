@@ -124,6 +124,8 @@
 > to 1.12b
 - B42 Dropmag AM Patch
 > 1.0 to 2.3 to 2.3H5 to 2.3B
+- B42 Optics
+> 0.15beta to 0.16b
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11 to 12.12 to 12.2 to 12.31
 - Centurion Homestead
@@ -138,6 +140,8 @@
 > 1.7 to 1.8
 - Desert Natural Weathers
 > 6.2.5 to 6.3.2 to 6.4 to Hotfix 6.4.1 to Hotfix 6.4.2 to 6.5 to 6.5.2 to 6.6.6
+- Death Throes
+> 1.0 to 1.2
 - DNW Sandstorms
 > 1.3 to 2.0 to 2.4
 - Dos Osos Veterans Club
@@ -159,7 +163,7 @@ Fallout 3 HD Overhaul Part 2
 1.09 to 1.16~~
 
 -Fallout 3 HD Overhaul Main Combined
-> to 2.3 to 2.5
+> to 2.3 to 2.5 to 2.6
 - Fallout 3 HD Overhaul Broken Steel
 > 1.02 to 1.03
 - Fallout Alpha Rendering Tweaks
@@ -177,7 +181,7 @@ Fallout 3 HD Overhaul Part 2
 - Immuno-Boosters Recipe for Simple Diseases
 > 1.0 to 1.6.1
 - ISControl 
-> 1.4 to 2.1
+> 1.4 to 2.1 to 2.2
 - JohnnyGuitarNVSE
 > 4.93 to 4.96b
 - JIP LN NVSE
