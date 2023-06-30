@@ -15,6 +15,7 @@
 - [Classic Adobe Sloan](https://www.nexusmods.com/newvegas/mods/80385)
 - [Vanilla UI](https://www.moddb.com/mods/vanilla-ui-plus)
 - [UX Tool Kit](https://www.nexusmods.com/newvegas/mods/79456)
+- [Callen's Hardcore Fix](https://www.nexusmods.com/newvegas/mods/79005?tab=files)
 
 ~~- [UX Collection](https://www.nexusmods.com/newvegas/mods/80604)~~
 
@@ -299,7 +300,8 @@ Fallout 3 HD Overhaul Part 2
 - Old Chinese AR
 - Classic Adobe Sloan
 - Casa De New Vegas
-= Dust Devil Home
+- Dust Devil Home
+- TTW - Wasteland Supplements Hardcore Perk Every Level
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
