@@ -88,6 +88,7 @@
 - [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175?tab=files)
 - [Smoothlight Pipboy Light](https://www.nexusmods.com/newvegas/mods/74831?tab=files)
 - [Springvale Garage & Friends Patch](https://www.nexusmods.com/newvegas/mods/80340?tab=files)
+- [Hits Antimateriel Rifle Anim](https://www.nexusmods.com/newvegas/mods/81239?tab=files)
 
 
 **Updated**
