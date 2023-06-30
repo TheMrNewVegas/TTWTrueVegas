@@ -90,6 +90,9 @@
 - [Smoothlight Pipboy Light](https://www.nexusmods.com/newvegas/mods/74831?tab=files)
 - [Springvale Garage & Friends Patch](https://www.nexusmods.com/newvegas/mods/80340?tab=files)
 - [Hits Antimateriel Rifle Anim](https://www.nexusmods.com/newvegas/mods/81239?tab=files)
+- [FNV Clean Animations Reborn Pt. 1](https://www.nexusmods.com/newvegas/mods/77429?tab=files)
+- [FNV Clean Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)
+- [FNV Clean Animations Pt. 3](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
 
 
 **Updated**
