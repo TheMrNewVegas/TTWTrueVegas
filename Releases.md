@@ -129,7 +129,11 @@
 - B42 Dropmag AM Patch
 > 1.0 to 2.3 to 2.3H5 to 2.3B
 - B42 Optics
-> 0.15beta to 0.16b
+> 0.15beta to 0.16b to .17b
+- B42 Optics TTW Patch
+> 1.0 to 1.1
+- B42 Optics AWOP FO3 Patch
+> 1.0 to 1.1
 - Benny Humbles You & Steals Your Stuff
 > 12.1 to 12.11 to 12.12 to 12.2 to 12.31
 - Centurion Homestead
@@ -160,6 +164,8 @@
 > 1.5 to 1.5.1 to 1.5.3
 - Enhanced Vegas Ruins
 > 3.3 to 3.4 to 3.9
+- Exterior Emmitance Fix
+> 1.1 to 1.2
 
 ~~Fallout 3 HD Overhaul Part 1
 1.43 to 1.46
@@ -170,6 +176,10 @@ Fallout 3 HD Overhaul Part 2
 > to 2.3 to 2.5 to 2.6
 - Fallout 3 HD Overhaul Broken Steel
 > 1.02 to 1.03
+- Fallout 3 HD Overhaul The Pitt
+> 1.01 to 1.02
+- Fallout 3 HD Overhaul Point Lookout
+> 1.03 to 1.04
 - Fallout Alpha Rendering Tweaks
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
