@@ -94,6 +94,7 @@
 - [FNV Clean Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)
 - [FNV Clean Animations Pt. 3](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
 - [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872)
+- [B42 Optics Allignment Patches: Vanilla, Another Millenia, Hitmans, Rockbiters, R-91 & Friends](https://www.nexusmods.com/newvegas/mods/81895)
 
 
 **Updated**
