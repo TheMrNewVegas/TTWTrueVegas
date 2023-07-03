@@ -93,6 +93,7 @@
 - [FNV Clean Animations Reborn Pt. 1](https://www.nexusmods.com/newvegas/mods/77429?tab=files)
 - [FNV Clean Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/78335?tab=files)
 - [FNV Clean Animations Pt. 3](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
+- [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872)
 
 
 **Updated**
@@ -173,8 +174,10 @@ Fallout 3 HD Overhaul Part 2
 > 2.3.1 to 2.3.2 to 2.4 to 2.4.1 to 2.4.3
 - FPGEL
 > 5.2 to 5.5 to 6.2
-- FPS Leaning
-> 2.0 to 2.1
+
+~~FPS Leaning~~
+~~2.0 to 2.1~~
+
 - Geck Extender
 > 0.38 to 0.39
 - High Res Bloom
@@ -309,6 +312,7 @@ Fallout 3 HD Overhaul Part 2
 - Casa De New Vegas
 - Dust Devil Home
 - TTW - Wasteland Supplements Hardcore Perk Every Level
+- FPS Leaning (Replaced with B42 Leaning)
 
 ## Release 1.45E Hotfix
 - Disabled Softlock, Players Can Enable it If They Would Like
