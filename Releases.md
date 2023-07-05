@@ -11,6 +11,8 @@
 
 **Removed**
 
+- Autoactivate Invisible Doors
+
 **Fixed**
 - Removed Fallout 3 HD Overhauls from the Medium Profile
 
