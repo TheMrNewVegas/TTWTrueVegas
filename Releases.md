@@ -6,6 +6,9 @@
 ### Save Safe?: Undetermined
 
 **Added**
+- [More LOD Additions & Fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)
+- [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
+- [LOD Additions - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)
 
 **Updated**
 
