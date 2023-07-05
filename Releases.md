@@ -12,6 +12,7 @@
 **Removed**
 
 **Fixed**
+- Removed Fallout 3 HD Overhauls from the Medium Profile
 
 ## Release 1.5
 
