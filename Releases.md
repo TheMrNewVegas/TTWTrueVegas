@@ -10,11 +10,13 @@
 **Updated**
 
 **Removed**
+- Autoactivate Invis Doors
+- FNVLODGen Resources
 
 - Autoactivate Invisible Doors
 
 **Fixed**
-- Removed Fallout 3 HD Overhauls from the Medium Profile
+
 
 ## Release 1.5
 
