@@ -9,6 +9,7 @@
 - [More LOD Additions & Fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)
 - [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
 - [LOD Additions - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)
+- [NVTF Ini's - Texture Modding and High Res Preset](https://www.nexusmods.com/newvegas/mods/81231?tab=files)
 
 **Updated**
 - ISControl Enabler
@@ -21,6 +22,8 @@
 > 0.17b to 0.19b
 - B42 True Leaning
 > 0.14b to 0.16b
+- NVTF
+> To 10.2.2.3
 
 **Removed**
 - Autoactivate Invis Doors
