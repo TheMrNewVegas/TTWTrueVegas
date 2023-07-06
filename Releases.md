@@ -11,6 +11,16 @@
 - [LOD Additions - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)
 
 **Updated**
+- ISControl Enabler
+> 2.2 to 2.3
+- SUP NVSE
+> 8.35 to 8.40
+- UX Toolkit
+> 1.6 to 1.7
+- B42 Optics
+> 0.17b to 0.19b
+- B42 True Leaning
+> 0.14b to 0.16b
 
 **Removed**
 - Autoactivate Invis Doors
