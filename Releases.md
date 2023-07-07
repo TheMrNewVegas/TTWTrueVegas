@@ -3,7 +3,7 @@
 
 ## Release 1.5.0.1
 
-### Save Safe?: Undetermined
+### Save Safe?: Undetermined; Proceed with caution
 
 **Added**
 - [More LOD Additions & Fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)
