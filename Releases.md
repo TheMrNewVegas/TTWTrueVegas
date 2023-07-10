@@ -5,6 +5,12 @@
 
 ### Save Safe?: YES
 
+**IMPORTANT UPDATING NOTE:** IF YOU ARE UPDATING DO THE FOLLOWING
+
+1.) YOU WILL NEED TO DELETE YOUR FALLOUT.INI & FALLOUTPREFS.INI FROM YOUR `Capital Punishment/profiles/[Profile Name]`
+
+2.) After doing this, you will need to allow MO2 to pull your inis from your vanilla install and clear the read only flag when launching Capital Punishment
+
 **Added**
 - 
 
