@@ -1,6 +1,25 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 1.5.0.2
+
+### Save Safe?: Undetermined; Proceed with caution
+
+**Added**
+- 
+
+**Updated**
+- JIP LN NVSE Plugin
+> 57.01 to 57.10
+- Bullet Casings Redone
+> 2.0 to 2.0.1
+
+**Removed**
+- 
+
+**Fixed**
+- Fixed the FalloutCustom.ini which should fix OOM's
+
 ## Release 1.5.0.1
 
 ### Save Safe?: Undetermined; Proceed with caution
