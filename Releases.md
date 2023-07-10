@@ -3,7 +3,7 @@
 
 ## Release 1.5.0.2
 
-### Save Safe?: Undetermined; Proceed with caution
+### Save Safe?: YES
 
 **Added**
 - 
