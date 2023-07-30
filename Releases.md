@@ -18,6 +18,8 @@
 > 2.0.5.0 to 2.0.53A
 - CFWR
 > 1.8 to 1.9
+- DLC Delay Redux
+> 1.5 to 2.0
 
 **Removed**
 - MUX & UX Toolkit
