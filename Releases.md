@@ -20,6 +20,12 @@
 > 1.8 to 1.9
 - DLC Delay Redux
 > 1.5 to 2.0
+- Fallout 3 HD Overhaul Main
+> 2.6 to 2.7
+- TTW Collectables Merged
+> 3.1 to 4.1
+- Mojave Express Courier Deliver Work - Primm
+> 2.4 to 2.5 
 
 **Removed**
 - MUX & UX Toolkit
