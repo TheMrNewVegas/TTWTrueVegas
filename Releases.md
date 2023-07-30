@@ -12,6 +12,12 @@
 - [Basic Console Autocomplete](https://www.nexusmods.com/newvegas/mods/82098)
 
 **Updated**
+- Console Paste Support
+> 1.0 to 2.0
+- Titans of the New West
+> 2.0.5.0 to 2.0.53A
+- CFWR
+> 1.8 to 1.9
 
 **Removed**
 - MUX & UX Toolkit
