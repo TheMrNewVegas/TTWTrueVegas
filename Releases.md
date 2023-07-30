@@ -1,6 +1,24 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 1.5.1.0
+
+### Save Safe?: NO
+
+**Added**
+- [Laser Bolt FX Scriptrunner](https://www.nexusmods.com/newvegas/mods/81968)
+- [Consistent Pipboy Icons V5](https://www.nexusmods.com/newvegas/mods/82074)
+- [Dramatic Inertia 3rd Person](https://www.nexusmods.com/newvegas/mods/82035)
+- [Basic Console Autocomplete](https://www.nexusmods.com/newvegas/mods/82098)
+
+**Updated**
+
+**Removed**
+- MUX & UX Toolkit
+
+**Fixed**
+
+
 ## Release 1.5.0.3
 
 ### Save Safe?: YES
