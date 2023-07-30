@@ -25,7 +25,15 @@
 - TTW Collectables Merged
 > 3.1 to 4.1
 - Mojave Express Courier Deliver Work - Primm
-> 2.4 to 2.5 
+> 2.4 to 2.5
+- JSRS Sound Mod 2.0
+> 2.0 to 2.11
+- JSRS Sound Mod 2.0 - FNV
+> 1.0 to 1.1
+- JSRS Sound Mod 2.0 - Another Millenia Patch
+> 1.0 to 1.1
+- JSRS Sound Mod 2.0 - Another Millenia Gun Addon
+> 1.0 to 1.1
 
 **Removed**
 - MUX & UX Toolkit
