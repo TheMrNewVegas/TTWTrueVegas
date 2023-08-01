@@ -10,6 +10,10 @@
 - [Consistent Pipboy Icons V5](https://www.nexusmods.com/newvegas/mods/82074)
 - [Dramatic Inertia 3rd Person](https://www.nexusmods.com/newvegas/mods/82035)
 - [Basic Console Autocomplete](https://www.nexusmods.com/newvegas/mods/82098)
+- [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145?tab=files)
+- [Character Kit Remake - Hair](https://www.nexusmods.com/newvegas/mods/82147?tab=files)
+- [Character Kit Remake - Hands](https://www.nexusmods.com/newvegas/mods/82148?tab=files)
+- [Character Kit Remake - Teeth](https://www.nexusmods.com/newvegas/mods/82146?tab=files)
 
 **Updated**
 - Console Paste Support
