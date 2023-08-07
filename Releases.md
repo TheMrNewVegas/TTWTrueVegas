@@ -8,7 +8,6 @@
 **Added**
 - [Laser Bolt FX Scriptrunner](https://www.nexusmods.com/newvegas/mods/81968)
 - [Consistent Pipboy Icons V5](https://www.nexusmods.com/newvegas/mods/82074)
-- [Dramatic Inertia 3rd Person](https://www.nexusmods.com/newvegas/mods/82035)
 - [Basic Console Autocomplete](https://www.nexusmods.com/newvegas/mods/82098)
 - [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145?tab=files)
 - [Character Kit Remake - Hair](https://www.nexusmods.com/newvegas/mods/82147?tab=files)
