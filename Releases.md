@@ -46,9 +46,10 @@
 > 1.0 to 1.1
 
 **Removed**
-- MUX & UX Toolkit
+
 
 **Fixed**
+- NPC's Sinking Into the Ground (Activated a Certain Stewie's Tweak)
 
 
 ## Release 1.5.0.3
