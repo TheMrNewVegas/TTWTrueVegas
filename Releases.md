@@ -19,7 +19,7 @@
 - Console Paste Support
 > 1.0 to 2.0
 - Titans of the New West
-> 2.0.5.0 to 2.0.53A
+> 2.0.5.0 to 2.0.53A to 2.0.60b
 - CFWR
 > 1.8 to 1.9
 - DLC Delay Redux
@@ -37,6 +37,12 @@
 - JSRS Sound Mod 2.0 - Another Millenia Patch
 > 1.0 to 1.1
 - JSRS Sound Mod 2.0 - Another Millenia Gun Addon
+> 1.0 to 1.1
+- FNV Mod Limit Fix
+> 3.0 to 3.1
+- JIP LN NVSE
+> 57.10 to 57.15
+- Character Kit Remake
 > 1.0 to 1.1
 
 **Removed**
