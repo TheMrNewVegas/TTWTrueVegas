@@ -48,7 +48,7 @@
 
 
 **Fixed**
-- NPC's Sinking Into the Ground (Activated a Certain Stewie's Tweak)
+- NPC's Sinking Into the Ground (Activated sinkbug Stewie's Tweak)
 
 
 ## Release 1.5.0.3
