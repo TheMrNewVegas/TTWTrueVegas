@@ -14,6 +14,7 @@
 - [Character Kit Remake - Hands](https://www.nexusmods.com/newvegas/mods/82148?tab=files)
 - [Character Kit Remake - Teeth](https://www.nexusmods.com/newvegas/mods/82146?tab=files)
 - [Sigma 3rd Person Anim Overhaul - Alt Run](https://www.nexusmods.com/newvegas/mods/80699?tab=files)
+- [Sigma 3rd Person Anim Overhaul Alt Run - 360 Movement Patch](https://www.nexusmods.com/newvegas/mods/80812?tab=files)
 
 **Updated**
 - Console Paste Support
