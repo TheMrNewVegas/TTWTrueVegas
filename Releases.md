@@ -20,9 +20,9 @@
 - Console Paste Support
 > 1.0 to 2.0
 - Titans of the New West
-> 2.0.5.0 to 2.0.53A to 2.0.60b
+> 2.0.5.0 to 2.0.53A to 2.0.60b to 20.67
 - CFWR
-> 1.8 to 1.9
+> 1.8 to 1.9 to 1.9.2
 - DLC Delay Redux
 > 1.5 to 2.0
 - Fallout 3 HD Overhaul Main
@@ -51,6 +51,25 @@
 > 1.0 to 1.1
 - Sup NVSE
 > 8.4 to 8.51
+- B42 Optics Patches by Stentorius
+> Merged & Updated to 1.3
+- Fatigue Overhaul
+> 0.1.6 to 0.2.2
+- B42 Optics
+> 0.19b to 0.20b
+- B42 Inject
+> 0.13b to 0.15b
+- Animated Player Interactions
+> 1.61 to 2.01 + Changed to Pluginless
+- B42 Dropmag TTW Patches
+> Merged from Various Version to 1.3
+- B42 Dropmag NV Patches
+> Merged from 1.0 to 1.2
+- BATH
+> 2.1 to 2.31
+- B42 True Leaning
+> 0.16b to 0.19b
+
 
 **Removed**
 
