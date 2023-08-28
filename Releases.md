@@ -34,7 +34,7 @@
 - JSRS Sound Mod 2.0
 > 2.0 to 2.11
 - JSRS Sound Mod 2.0 - FNV
-> 1.0 to 1.1
+> 1.0 to 1.1 
 - JSRS Sound Mod 2.0 - Another Millenia Patch
 > 1.0 to 1.1
 - JSRS Sound Mod 2.0 - Another Millenia Gun Addon
@@ -44,7 +44,7 @@
 - JIP LN NVSE
 > 57.10 to 57.15
 - Character Kit Remake
-> 1.0 to 1.1
+> 1.0 to 1.1 to 1.2
 - Stewie's Tweaks
 > 8.65 to 8.72
 - Depth of Field Fix
@@ -69,6 +69,12 @@
 > 2.1 to 2.31
 - B42 True Leaning
 > 0.16b to 0.19b
+- Heatstroke
+> 1.1 to 2.0
+- More LOD Additions & Fixes
+> 0.4 to 1.1
+- JSRS TTW Patch
+> 1.0 to 1.01
 
 
 **Removed**
