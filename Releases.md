@@ -20,6 +20,8 @@
 - [Stewies Engine Optimizations](https://www.nexusmods.com/newvegas/mods/80993)
 - [Yvile's Crash Logger](https://www.nexusmods.com/newvegas/mods/82540)
 - [Two Wastelands Redesigned x Character Kit Remake Patch](https://www.nexusmods.com/newvegas/mods/82463?tab=files)
+- [Menu Search](https://www.nexusmods.com/newvegas/mods/81743?tab=files)
+- [Cookable Grenades](https://www.nexusmods.com/newvegas/mods/81678?tab=files)
 
 **Updated**
 - Console Paste Support
