@@ -46,7 +46,7 @@
 - Character Kit Remake
 > 1.0 to 1.1
 - Stewie's Tweaks
-> 8.65 to 
+> 8.65 to 8.72
 - Depth of Field Fix
 > 1.0 to 1.1
 - Sup NVSE
