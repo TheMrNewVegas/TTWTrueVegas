@@ -15,6 +15,10 @@
 - [Character Kit Remake - Teeth](https://www.nexusmods.com/newvegas/mods/82146?tab=files)
 - [Sigma 3rd Person Anim Overhaul - Alt Run](https://www.nexusmods.com/newvegas/mods/80699?tab=files)
 - [Sigma 3rd Person Anim Overhaul Alt Run - 360 Movement Patch](https://www.nexusmods.com/newvegas/mods/80812?tab=files)
+- [Subjugation & Optional Files](https://www.nexusmods.com/newvegas/mods/82597?tab=files)
+- [B42 Firemode](https://www.nexusmods.com/newvegas/mods/82576)
+- [Stewies Engine Optimizations](https://www.nexusmods.com/newvegas/mods/80993)
+- [Yvile's Crash Logger](https://www.nexusmods.com/newvegas/mods/82540)
 
 **Updated**
 - Console Paste Support
@@ -78,7 +82,8 @@
 
 
 **Removed**
-
+- JIP Select Fire
+> Replaced with B42 Firemode
 
 **Fixed**
 - NPC's Sinking Into the Ground (Activated sinkbug Stewie's Tweak)
