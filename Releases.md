@@ -80,7 +80,7 @@
 - JSRS TTW Patch
 > 1.0 to 1.01
 - xNVSE
-> to 6.3.2
+> 6.3.0 to 6.3.2
 
 
 **Removed**
