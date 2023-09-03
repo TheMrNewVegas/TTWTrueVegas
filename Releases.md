@@ -6,7 +6,6 @@
 ### Save Safe?: NO
 
 **Added**
-- [Laser Bolt FX Scriptrunner](https://www.nexusmods.com/newvegas/mods/81968)
 - [Consistent Pipboy Icons V5](https://www.nexusmods.com/newvegas/mods/82074)
 - [Basic Console Autocomplete](https://www.nexusmods.com/newvegas/mods/82098)
 - [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145?tab=files)
