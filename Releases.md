@@ -31,8 +31,6 @@
 > 1.8 to 1.9 to 1.9.2
 - DLC Delay Redux
 > 1.5 to 2.0
-- Fallout 3 HD Overhaul Main
-> 2.6 to 2.7
 - TTW Collectables Merged
 > 3.1 to 4.1
 - Mojave Express Courier Deliver Work - Primm
@@ -88,6 +86,7 @@
 **Removed**
 - JIP Select Fire
 > Replaced with B42 Firemode
+- Fallout 3 HD Overhauls
 
 **Fixed**
 - NPC's Sinking Into the Ground (Activated sinkbug Stewie's Tweak)
