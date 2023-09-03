@@ -92,6 +92,7 @@
 
 **Fixed**
 - NPC's Sinking Into the Ground (Activated sinkbug Stewie's Tweak)
+- Most Resources will Now Distribute with the Wabbaajack File Itself vs Downloading from the Nexus
 
 
 ## Release 1.5.0.3
