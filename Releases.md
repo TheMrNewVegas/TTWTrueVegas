@@ -87,6 +87,8 @@
 - JIP Select Fire
 > Replaced with B42 Firemode
 - Fallout 3 HD Overhauls
+- Reshade 
+> Will be an optional install from here on 
 
 **Fixed**
 - NPC's Sinking Into the Ground (Activated sinkbug Stewie's Tweak)
