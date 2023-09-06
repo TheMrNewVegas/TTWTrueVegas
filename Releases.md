@@ -1,5 +1,20 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.1.1
+
+### Save Safe?: YES
+
+**Added**
+
+**Updated**
+
+**Removed**
+- Stash Organizer
+> Owner has made it difficult for Wabbajack installation to occur with this mod/asked for it not to occur
+
+**Fixed**
+
+
 ## Release 1.5.1.0
 
 ### Save Safe?: NO
