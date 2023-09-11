@@ -16,7 +16,7 @@
 
 **Special Uninstall Instructions**
 
-- To uninstall the Starfield Upscaler, delete the mods folder as well as the dxgi.dll
+- To uninstall the Starfield Upscaler, delete the mods folder as well as the dxgi.dll in your root Starfield folder
 
 
 ## Release 1.5.1.0
