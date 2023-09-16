@@ -1,5 +1,18 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.2.0
+
+### Save Safe?: YES
+
+**Added**
+
+**Updated**
+
+**Removed**
+- TTW Hotfix 3.3.2
+
+**Fixed**
+
 ## Release 1.5.1.1
 
 ### Save Safe?: YES
@@ -13,11 +26,6 @@
 > Owner has made it difficult for Wabbajack installation to occur with this mod/asked for it not to occur
 
 **Fixed**
-
-**Special Uninstall Instructions**
-
-- To uninstall the Starfield Upscaler, delete the mods folder as well as the dxgi.dll in your root Starfield folder
-
 
 ## Release 1.5.1.0
 
