@@ -10,6 +10,7 @@
 
 **Removed**
 - TTW Hotfix 3.3.2
+- B42 True Lean
 
 **Fixed**
 
