@@ -6,6 +6,8 @@
 
 **Added**
 - [GECK Extender INI](https://www.nexusmods.com/newvegas/mods/64888?tab=files)
+- [Character Kit Remake Patch - TTW Facegen](https://www.nexusmods.com/newvegas/mods/82447?tab=description)
+- [Character Kit Remake Patch - Project Beauty](https://www.nexusmods.com/newvegas/mods/82463?tab=description)
 
 **Updated**
 - Console Paste Support
