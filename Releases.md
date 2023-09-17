@@ -5,8 +5,33 @@
 ### Save Safe?: NO
 
 **Added**
+- [GECK Extender INI](https://www.nexusmods.com/newvegas/mods/64888?tab=files)
 
 **Updated**
+- Console Paste Support
+> 2.0 to 2.1
+- JIP LN NVSE Plugin
+> 57.15 to 57.21
+- ShowOff NVSE
+> 1.60. to 1.65
+- Stewie's Tweaks
+> 8.72 to 8.75
+- GECK Extender
+> 0.39 to 0.39a
+- R91 & Friends
+> 1.234 to 1.31
+- Subjugation TTW Additions
+> 0.1.2 to 0.1.4
+- Immersive Recoil
+> 1.3 to 1.4.1
+- DKS & Friends
+> 1.0 to 1.1
+- Character Kit Remake
+> 1.2 to 1.3
+- Sweet Shooter Perks
+> 16.07 to 16.13
+- Sweet Shooter Perk Patches
+> 3.0 to 4.0
 
 **Removed**
 - TTW Hotfix 3.3.2
