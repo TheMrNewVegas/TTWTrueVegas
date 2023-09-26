@@ -8,6 +8,10 @@
 - [GECK Extender INI](https://www.nexusmods.com/newvegas/mods/64888?tab=files)
 - [Character Kit Remake Patch - TTW Facegen](https://www.nexusmods.com/newvegas/mods/82447?tab=description)
 - [Character Kit Remake Patch - Project Beauty](https://www.nexusmods.com/newvegas/mods/82463?tab=description)
+- [B42 Interact](https://www.nexusmods.com/newvegas/mods/83119)
+- [B42 Interact - Skinning Animations & Human Addon](https://www.nexusmods.com/newvegas/mods/83161)
+- [B42 Interact - Animation Pack & New Vegas Bounties I LE Patch](https://www.nexusmods.com/newvegas/mods/83096?tab=files)
+- [KEYWORDS](https://www.nexusmods.com/newvegas/mods/83088)
 
 **Updated**
 - Console Paste Support
@@ -15,7 +19,7 @@
 - JIP LN NVSE Plugin
 > 57.15 to 57.21
 - ShowOff NVSE
-> 1.60. to 1.65
+> 1.60. to 1.65 to 1.73
 - Stewie's Tweaks
 > 8.72 to 8.75
 - GECK Extender
@@ -31,9 +35,14 @@
 - Character Kit Remake
 > 1.2 to 1.3
 - Sweet Shooter Perks
-> 16.07 to 16.13
+> 16.07 to 16.13 to 16.15
 - Sweet Shooter Perk Patches
 > 3.0 to 4.0
+- YVile's Crash Logger
+> 4.1Alpha to 4.2
+- Titan's of the New West
+> 2.0.67 to 2.1.03
+
 
 **Removed**
 - TTW Hotfix 3.3.2
