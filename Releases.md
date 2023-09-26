@@ -12,6 +12,7 @@
 - [B42 Interact - Skinning Animations & Human Addon](https://www.nexusmods.com/newvegas/mods/83161)
 - [B42 Interact - Animation Pack & New Vegas Bounties I LE Patch](https://www.nexusmods.com/newvegas/mods/83096?tab=files)
 - [KEYWORDS](https://www.nexusmods.com/newvegas/mods/83088)
+- CASUAL MEDIUM & LOW PROFILES!
 
 **Updated**
 - Console Paste Support
