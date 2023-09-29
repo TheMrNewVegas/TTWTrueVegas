@@ -13,6 +13,7 @@
 - [B42 Interact - Animation Pack & New Vegas Bounties I LE Patch](https://www.nexusmods.com/newvegas/mods/83096?tab=files)
 - [KEYWORDS](https://www.nexusmods.com/newvegas/mods/83088)
 - [Consistent Pipboy Icons V5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740?tab=files)
+- [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245?tab=files)
 - CASUAL MEDIUM & LOW PROFILES!
 
 **Updated**
