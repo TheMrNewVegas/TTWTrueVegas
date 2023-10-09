@@ -74,6 +74,7 @@
 
 **Removed**
 - TTW Hotfix 3.3.2
+- Ammo Boxes - Economy Fix
 
 **Fixed**
 
