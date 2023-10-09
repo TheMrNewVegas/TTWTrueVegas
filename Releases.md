@@ -51,9 +51,6 @@
 
 **Removed**
 - TTW Hotfix 3.3.2
-- B42 True Lean
-- NVHR
-> If you are having major performance hits/NVHR worked for you before, you can access an optional installation guide for NVHR [HERE](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/3-Performance-Tweaks/)
 
 **Fixed**
 
