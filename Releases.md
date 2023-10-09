@@ -42,11 +42,33 @@
 - Sweet Shooter Perk Patches
 > 3.0 to 4.0
 - YVile's Crash Logger
-> 4.1Alpha to 4.2
+> 4.1Alpha to 4.2 to 4.3
 - Titan's of the New West
 > 2.0.67 to 2.1.03
 - XNVSE
 > 6.3.3 to 6.3.4
+- Keywords
+> 1.0 to 1.01
+- Consistent Pipboy Icons V5 - Weapons
+> 5.0 to 5.01
+- B42 Firemode - Selective Fire - ESPLess
+> 0.36betaAlt to 0.37betaAlt
+- ADO - Armor Damage Overhaul
+> 2.3 to 3
+- Simple Open Strip
+> 1.8 to 2.0A
+- Enhanced Vegas Ruins
+> 3.9 to 4.1
+- Order a Meal - Tweaked
+> 2.0 to 1.2
+- Animated Player Interactions
+> 2.0.1 to 2.1
+- B42 Interact
+> 0.13b to 0.14b
+- Sweet Style Bounties
+> 1.03 to 1.08
+- Desert Natural Weathers
+> 6.6.6 to 6.9
 
 
 **Removed**
