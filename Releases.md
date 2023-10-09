@@ -45,6 +45,8 @@
 > 4.1Alpha to 4.2
 - Titan's of the New West
 > 2.0.67 to 2.1.03
+- XNVSE
+> 6.3.3 to 6.3.4
 
 
 **Removed**
