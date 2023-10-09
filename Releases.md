@@ -15,6 +15,7 @@
 - [Consistent Pipboy Icons V5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740?tab=files)
 - [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245?tab=files)
 - [Consistent Pipboy Icons V5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248?tab=files)
+- [MUX Series Interace Overhaul](https://www.nexusmods.com/newvegas/mods/80642)
 - CASUAL MEDIUM & LOW PROFILES!
 
 **Updated**
