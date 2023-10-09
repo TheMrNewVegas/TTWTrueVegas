@@ -23,7 +23,7 @@
 - JIP LN NVSE Plugin
 > 57.15 to 57.21
 - ShowOff NVSE
-> 1.60. to 1.65 to 1.70
+> 1.60. to 1.65 to 1.70 to 1.75
 - Stewie's Tweaks
 > 8.72 to 8.75
 - GECK Extender
