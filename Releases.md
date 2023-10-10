@@ -1,5 +1,12 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.2.1 
+
+### Save Safe?: YES (For Versions 1.5.2.0+)
+
+**Fixed**
+- Misplaced Hud Icon for Select Fire/Improper Key for Select Fire
+
 ## Release 1.5.2.0 
 
 ### Save Safe?: NO
