@@ -76,9 +76,9 @@
 **Removed**
 - TTW Hotfix 3.3.2
 - Ammo Boxes - Economy Fix
-- Simplified PAVE
 - B42 Loot Log
-- B42 Notify 
+- B42 Notify
+- NVHR
 
 **Fixed**
 
