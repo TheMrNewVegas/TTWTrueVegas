@@ -4,6 +4,15 @@
 
 ### Save Safe?: YES (For Versions 1.5.2.0+)
 
+**Removed/Fixed**
+- Character Kit Remake - Faces 
+- CKR Patch for Project Beauty
+> This will fix the multiple weird looking NPC faces, whether it be missing eyebrows, mismatching skin intonation, improper shadowing around eyes, etc
+
+## Release 1.5.2.1 
+
+### Save Safe?: YES (For Versions 1.5.2.0+)
+
 **Fixed**
 - Misplaced Hud Icon for Select Fire/Improper Key for Select Fire
 
