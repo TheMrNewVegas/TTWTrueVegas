@@ -1,6 +1,6 @@
 # Releases (Newest to Oldest)
 
-## Release 1.5.2.1 
+## Release 1.5.2.2
 
 ### Save Safe?: YES (For Versions 1.5.2.0+)
 
