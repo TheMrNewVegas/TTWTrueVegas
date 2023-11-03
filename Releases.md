@@ -1,5 +1,20 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.2.3 [UNRELEASED]
+
+### Save Safe?: NO
+
+**Removed/Fixed**
+- Enhanced Vegas Ruins
+
+**Updated**
+- Sweet 6 Shooter Perk Pack TTW
+
+### Save Safe?: YES (For Versions 1.5.2.0+)
+
+**Fixed**
+- Misplaced Hud Icon for Select Fire/Improper Key for Select Fire
+
 ## Release 1.5.2.2
 
 ### Save Safe?: YES (For Versions 1.5.2.0+)
