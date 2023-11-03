@@ -13,6 +13,8 @@
 - [Consistent Pipboy Icons V5 - Extension Pt 1](https://www.nexusmods.com/newvegas/mods/83639)
 - [Weapon Hotkey Icons & JAM Patch](https://www.nexusmods.com/newvegas/mods/83476?tab=files)
 - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603?tab=files)
+- [Caravan Guard - Remastered](https://www.nexusmods.com/newvegas/mods/83590?tab=files)
+> Replaces OG Caravan Guard
 
 **Removed/Fixed**
 - Enhanced Vegas Ruins
