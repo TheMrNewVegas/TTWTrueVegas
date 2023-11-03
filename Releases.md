@@ -4,6 +4,10 @@
 
 ### Save Safe?: NO
 
+**Added**
+- [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145?tab=description)
+- [CKR TTW Facegen](https://www.nexusmods.com/newvegas/mods/82447?tab=files)
+
 **Removed/Fixed**
 - Enhanced Vegas Ruins
 - All Two Wastelands Redesigned - Project Beauty Mods
