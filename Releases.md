@@ -15,6 +15,10 @@
 - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603?tab=files)
 - [Caravan Guard - Remastered](https://www.nexusmods.com/newvegas/mods/83590?tab=files)
 > Replaces OG Caravan Guard
+- [Vanilla Graffiti Redone](https://www.nexusmods.com/newvegas/mods/83226)
+- [FNV-TTW Graffitie Redone](https://www.nexusmods.com/newvegas/mods/83538)
+- [Great Khans Graffiti Redone](https://www.nexusmods.com/newvegas/mods/83348)
+
 
 **Removed/Fixed**
 - Enhanced Vegas Ruins
@@ -25,6 +29,7 @@
 - Discord Integration
 - Need to look into if DNW's SMGE patch will be okay without the older SMGE patch from 2022
 - Caravan Guard
+- HiRes Raider Graffiti
 
 **Updated**
 - Console Paste Support
