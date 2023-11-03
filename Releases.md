@@ -11,6 +11,7 @@
 **Removed/Fixed**
 - Enhanced Vegas Ruins
 - All Two Wastelands Redesigned - Project Beauty Mods
+- Armor Damage Overhaul
 
 **Updated**
 - Sweet 6 Shooter Perk Pack TTW
