@@ -21,6 +21,7 @@
 - Fixed Weapon Lowering
 - Fixed NPC Sinking Bug
 - Discord Integration
+- Need to look into if DNW's SMGE patch will be okay without the older SMGE patch from 2022
 
 **Updated**
 - Console Paste Support
