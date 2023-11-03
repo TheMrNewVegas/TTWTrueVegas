@@ -23,7 +23,28 @@
 - Discord Integration
 
 **Updated**
+- Console Paste Support
+> 2.1 to 2.2
 - Sweet 6 Shooter Perk Pack TTW
+> 16.15 to 16.18
+- Consistent Pipboy Icons V5 - Items
+> 5.01 to 5.03
+- Yvile's Crash Logger
+> 4.3 to 4.5
+- Consistent Pip-Boy Icons V5 - Weapons
+> 5.01 to 5.02
+- Consistent Pipboy Icons V5 - Apparel
+> 5.0 to 5.02
+- B42 Melee Bash
+> 0.5b to 0.6b
+- Horror's of the New West
+> 1.1 to 1.2
+- SSB
+> 1.08 to 1.093
+- SSB WAP Assault Carbine Patch
+> 1.0 to 1.1
+- Desert Natural Weathers & SMGE/Misc Patches
+> 6.9 to 6.9.1
 
 ## Release 1.5.2.2
 
