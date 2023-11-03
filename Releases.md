@@ -12,6 +12,9 @@
 - Enhanced Vegas Ruins
 - All Two Wastelands Redesigned - Project Beauty Mods
 - Armor Damage Overhaul
+- Fixed Weapon Lowering
+- Fixed NPC Sinking Bug
+- Discord Integration
 
 **Updated**
 - Sweet 6 Shooter Perk Pack TTW
