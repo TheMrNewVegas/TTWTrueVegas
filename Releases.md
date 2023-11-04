@@ -7,7 +7,6 @@
 **Added**
 - [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145?tab=description)
 - [CKR TTW Facegen](https://www.nexusmods.com/newvegas/mods/82447?tab=files)
-- [Radiant Infinium & TTW Addon](https://www.nexusmods.com/newvegas/mods/83610)
 - [Retro Car Wrecks](https://www.nexusmods.com/newvegas/mods/73864?tab=files)
 - [Consistent Pipboy Icons V5 - Framework](https://www.nexusmods.com/newvegas/mods/83432?tab=files)
 - [Consistent Pipboy Icons V5 - Extension Pt 1](https://www.nexusmods.com/newvegas/mods/83639)
