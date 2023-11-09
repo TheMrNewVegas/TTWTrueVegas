@@ -32,7 +32,8 @@
 - Armed to the Teeth
 - TotNW x ATT Patch
 - Mr. Handy & Mr. Gutsy Replacer TTW
-- Ambient Temperature 
+- Ambient Temperature
+- Koldorn's Feral Ghouls
 
 **Updated**
 - Console Paste Support
