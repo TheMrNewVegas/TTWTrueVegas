@@ -28,6 +28,9 @@
 - Need to look into if DNW's SMGE patch will be okay without the older SMGE patch from 2022
 - Caravan Guard
 - HiRes Raider Graffiti
+- Armed to the Teeth
+- TotNW x ATT Patch
+- Mr. Handy & Mr. Gutsy Replacer TTW
 
 **Updated**
 - Console Paste Support
