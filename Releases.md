@@ -16,6 +16,7 @@
 - [Vanilla Graffiti Redone](https://www.nexusmods.com/newvegas/mods/83226)
 - [FNV-TTW Graffitie Redone](https://www.nexusmods.com/newvegas/mods/83538)
 - [Great Khans Graffiti Redone](https://www.nexusmods.com/newvegas/mods/83348)
+- [Decaying Feral Ghouls](https://www.nexusmods.com/newvegas/mods/83726)
 
 
 **Removed/Fixed**
