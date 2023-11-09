@@ -31,6 +31,7 @@
 - Armed to the Teeth
 - TotNW x ATT Patch
 - Mr. Handy & Mr. Gutsy Replacer TTW
+- Ambient Temperature 
 
 **Updated**
 - Console Paste Support
