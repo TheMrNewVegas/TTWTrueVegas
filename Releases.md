@@ -7,6 +7,7 @@
 **Added**
 
 **Removed/Fixed**
+- Heatstroke
 
 **Updated**
 
