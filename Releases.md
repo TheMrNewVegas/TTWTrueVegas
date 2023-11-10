@@ -1,6 +1,16 @@
 # Releases (Newest to Oldest)
 
-## Release 1.5.2.3 [UNRELEASED]
+## Release 1.5.2.4 [UNRELEASED]
+
+### Save Safe?: NO
+
+**Added**
+
+**Removed/Fixed**
+
+**Updated**
+
+## Release 1.5.2.3
 
 ### Save Safe?: NO
 
