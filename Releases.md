@@ -12,6 +12,8 @@
 > Will likely add back once stuttering is fixed
 
 **Updated**
+- Titans of the New West
+> 2.1.3 to 2.1.4
 
 ## Release 1.5.2.3
 
