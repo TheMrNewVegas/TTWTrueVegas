@@ -8,6 +8,8 @@
 
 **Removed/Fixed**
 - Heatstroke
+- Animated Player Interactions
+> Will likely add back once stuttering is fixed
 
 **Updated**
 
