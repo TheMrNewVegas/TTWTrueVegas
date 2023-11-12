@@ -10,6 +10,8 @@
 - Heatstroke
 - Animated Player Interactions
 > Will likely add back once stuttering is fixed
+- Fixed: Difference in ordering of large scale texture packs
+> These were improperly named and likely, improperly compiled. They are now properly named and freshly merged
 
 **Updated**
 - Titans of the New West
