@@ -12,6 +12,7 @@
 > Will likely add back once stuttering is fixed
 - Fixed: Difference in ordering of large scale texture packs
 > These were improperly named and likely, improperly compiled. They are now properly named and freshly merged
+- Fixed: Citadel Crash - Currently believed to be related to the version of Tale of Two Wastelands you're running. UPDATE TO LATEST
 
 **Updated**
 - Titans of the New West
