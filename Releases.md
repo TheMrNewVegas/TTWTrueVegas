@@ -1,5 +1,17 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.2.5
+
+### Save Safe?: NO
+
+**Added**
+- [Gila Monster Companion](https://www.nexusmods.com/newvegas/mods/83746?tab=files)
+   
+**Removed/Fixed**
+
+**Updated**
+
+
 ## Release 1.5.2.4 
 
 ### Save Safe?: NO
