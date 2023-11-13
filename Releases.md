@@ -5,7 +5,10 @@
 ### Save Safe?: NO
 
 **Added**
+
+**Looking to Add**
 - [Gila Monster Companion](https://www.nexusmods.com/newvegas/mods/83746?tab=files)
+- [Feral Ghoul - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101)
    
 **Removed/Fixed**
 
