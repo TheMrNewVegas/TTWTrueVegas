@@ -1,6 +1,6 @@
 # Releases (Newest to Oldest)
 
-## Release 1.5.3.0[UNRELEASED]
+## Release 1.5.2.5[UNRELEASED]
 
 ### Save Safe?: NO
 
@@ -13,7 +13,8 @@
 **Removed/Fixed**
 
 **Updated**
-
+- MO2
+> 2.4.4 to 2.50RC
 
 ## Release 1.5.2.4 
 
