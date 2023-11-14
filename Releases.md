@@ -1,6 +1,6 @@
 # Releases (Newest to Oldest)
 
-## Release 1.5.2.5[UNRELEASED]
+## Release 1.5.3.0 [UNRELEASED]
 
 ### Save Safe?: NO
 
@@ -9,6 +9,16 @@
 **Looking to Add**
 - [Gila Monster Companion](https://www.nexusmods.com/newvegas/mods/83746?tab=files)
 - [Feral Ghoul - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101)
+   
+**Removed/Fixed**
+
+**Updated**
+
+## Release 1.5.2.5
+
+### Save Safe?: YES (1.5.2.4)
+
+**Added**
    
 **Removed/Fixed**
 
