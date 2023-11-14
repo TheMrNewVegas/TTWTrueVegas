@@ -14,7 +14,7 @@
 
 **Updated**
 - MO2
-> 2.4.4 to 2.50RC
+> 2.4.4 to 2.50RC1.7
 
 ## Release 1.5.2.4 
 
