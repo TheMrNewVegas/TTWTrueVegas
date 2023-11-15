@@ -26,6 +26,7 @@
 - [1k & 2k Anchorage Snowscape](https://www.nexusmods.com/fallout3/mods/23949)
 - [1k & 2k Lookout Swampscape](https://www.nexusmods.com/fallout3/mods/23957?tab=files)
 - [Fallout 3 HD Overhaul & DLC Components](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
+- [HD Misc War Objects](https://www.nexusmods.com/newvegas/mods/83630?tab=files)
 
    
 **Removed/Fixed**
