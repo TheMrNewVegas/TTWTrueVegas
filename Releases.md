@@ -11,6 +11,21 @@
 - [Bad Touch - NVSE](https://www.nexusmods.com/newvegas/mods/83782)
 - [Afterglow - Neon Illumination & Lightbright Tweaks](https://www.nexusmods.com/newvegas/mods/83736?tab=files)
 - [Subtle Sandstorms](https://www.nexusmods.com/newvegas/mods/83693?tab=files)
+- [FNV Clean Anims - Grenade Pack](https://www.nexusmods.com/newvegas/mods/83735)
+- [WJS's Super Sledges](https://www.nexusmods.com/newvegas/mods/68146?tab=files)
+- [Eyes of Torment](https://www.nexusmods.com/newvegas/mods/83768?tab=files)
+- [2k Wardrobe Replacer](https://www.nexusmods.com/newvegas/mods/72611)
+- [2k Metal Box Replacer](https://www.nexusmods.com/newvegas/mods/72598)
+- [2k Medkit Replacer](https://www.nexusmods.com/newvegas/mods/72566)
+- [2k Mojave Express Box Replacer](https://www.nexusmods.com/newvegas/mods/72855)
+- [Better Jukebox - 1k HD](https://www.nexusmods.com/newvegas/mods/83710)
+- [HD Signs Overhaul Pt 1](https://www.nexusmods.com/newvegas/mods/82760)
+- [HD Signs Overhaul Pt 2](https://www.nexusmods.com/newvegas/mods/82770)
+- [HD Signs Overhaul Pt 3](https://www.nexusmods.com/newvegas/mods/82778?tab=files)
+- [New Vegas Palm Trees Enhanced](https://www.nexusmods.com/newvegas/mods/83261?tab=files)
+- [1k & 2k Anchorage Snowscape](https://www.nexusmods.com/fallout3/mods/23949)
+- [1k & 2k Lookout Swampscape](https://www.nexusmods.com/fallout3/mods/23957?tab=files)
+
    
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
