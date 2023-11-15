@@ -10,6 +10,7 @@
 - [NPCs Sprint - KNVSE & ToTNW Patch](https://www.nexusmods.com/newvegas/mods/83745)
 - [Bad Touch - NVSE](https://www.nexusmods.com/newvegas/mods/83782)
 - [Afterglow - Neon Illumination & Lightbright Tweaks](https://www.nexusmods.com/newvegas/mods/83736?tab=files)
+- [Subtle Sandstorms](https://www.nexusmods.com/newvegas/mods/83693?tab=files)
    
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
