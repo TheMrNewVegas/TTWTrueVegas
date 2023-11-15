@@ -5,12 +5,13 @@
 ### Save Safe?: NO
 
 **Added**
-
-**Looking to Add**
 - [Gila Monster Companion](https://www.nexusmods.com/newvegas/mods/83746?tab=files)
 - [Feral Ghoul - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101)
+- [NPCs Sprint - KNVSE & ToTNW Patch](https://www.nexusmods.com/newvegas/mods/83745)
+- [Bad Touch - NVSE]
    
 **Removed/Fixed**
+- NPCs Sprint in Combat Plugin
 
 **Updated**
 
