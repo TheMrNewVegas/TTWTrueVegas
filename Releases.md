@@ -27,10 +27,12 @@
 - [1k & 2k Lookout Swampscape](https://www.nexusmods.com/fallout3/mods/23957?tab=files)
 - [Fallout 3 HD Overhaul & DLC Components](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
 - [HD Misc War Objects](https://www.nexusmods.com/newvegas/mods/83630?tab=files)
-
+- [Atmopsheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
    
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
+- SILO
+- SILO TTW
 
 **Updated**
 
