@@ -9,6 +9,7 @@
 - [Feral Ghoul - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101)
 - [NPCs Sprint - KNVSE & ToTNW Patch](https://www.nexusmods.com/newvegas/mods/83745)
 - [Bad Touch - NVSE](https://www.nexusmods.com/newvegas/mods/83782)
+- [Afterglow - Neon Illumination & Lightbright Tweaks](https://www.nexusmods.com/newvegas/mods/83736?tab=files)
    
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
