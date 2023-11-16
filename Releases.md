@@ -33,6 +33,7 @@
 - [Better Grass](https://www.nexusmods.com/newvegas/mods/83794)
 - [Landscape Texture Improvement](https://www.nexusmods.com/newvegas/mods/83425)
 - [Just Sprint +](https://www.nexusmods.com/newvegas/mods/83797)
+- [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
