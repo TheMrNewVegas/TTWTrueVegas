@@ -31,6 +31,7 @@
 - [Blurry Distance](https://www.nexusmods.com/newvegas/mods/75413?tab=files)
 - [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 - [Better Grass](https://www.nexusmods.com/newvegas/mods/83794)
+- [Landscape Texture Improvement](https://www.nexusmods.com/newvegas/mods/83425)
    
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
