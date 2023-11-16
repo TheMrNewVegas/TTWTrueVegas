@@ -41,6 +41,10 @@
 - Nut's Grass
 
 **Updated**
+- Titans of the New West 2.0
+> 2.1.4 to 2.1.5
+- Bad Touch NVSE
+> 1.2.1 to 1.3.1
 
 ## Release 1.5.2.5
 
