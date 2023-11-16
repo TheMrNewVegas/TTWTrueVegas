@@ -32,8 +32,7 @@
 - [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 - [Better Grass](https://www.nexusmods.com/newvegas/mods/83794)
 - [Landscape Texture Improvement](https://www.nexusmods.com/newvegas/mods/83425)
-- [Wasteland Flora & Terrain Overhaul - Patched](https://www.nexusmods.com/newvegas/mods/81446?tab=description)
-   
+
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
 - SILO
