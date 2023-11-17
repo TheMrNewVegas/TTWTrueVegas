@@ -64,7 +64,7 @@
 > 1.0.1 to 1.0.2
 - Player Combat Priority
 > 1.0.2 to 1.0.3
-- DNW
+- DNW & Patches
 > 6.9.1 to 7.0.1
 
 **Want to Update
