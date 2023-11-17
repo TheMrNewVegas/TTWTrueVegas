@@ -46,6 +46,10 @@
 > 2.1.4 to 2.1.5
 - Bad Touch NVSE
 > 1.2.1 to 1.3.1
+- Geck Extender & INI
+> 0.39a to 0.40
+- Yvile's Crash Logger
+> 4.5 to 4.5.2
 
 ## Release 1.5.2.5
 
