@@ -55,11 +55,17 @@
 - Better Grass
 > 1.0 to 1.1
 - Consistent Pipboy Icons - Items
->
+> 5.04 to 5.05
 - Consistent Pipboy Icons - Extension
->
-- Cloud Shadows
-> 
+> 1.0 to 2.0
+- Fallout Alpha Rendering Tweaks
+> 2.4.3 to 2.5
+ Cloud Shaodws
+> 1.0.1 to 1.0.2
+
+**Want to Update
+- MUX Series Interface Overhaul
+> 5.5 to 6.2
 
 ## Release 1.5.2.5
 
