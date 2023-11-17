@@ -66,6 +66,8 @@
 > 1.0.2 to 1.0.3
 - DNW & Patches
 > 6.9.1 to 7.0.1
+- Mojave Raiders
+> 1.2.4 to 1.2.6
 
 **Want to Update
 - MUX Series Interface Overhaul
