@@ -60,8 +60,10 @@
 > 1.0 to 2.0
 - Fallout Alpha Rendering Tweaks
 > 2.4.3 to 2.5
- Cloud Shaodws
+ Cloud Shadows
 > 1.0.1 to 1.0.2
+- Player Combat Priority
+> 1.0.2 to 1.0.3
 
 **Want to Update
 - MUX Series Interface Overhaul
