@@ -50,6 +50,8 @@
 > 0.39a to 0.40
 - Yvile's Crash Logger
 > 4.5 to 4.5.2
+- JSP
+> 1.0 to 1.04
 
 ## Release 1.5.2.5
 
