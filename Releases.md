@@ -52,6 +52,14 @@
 > 4.5 to 4.5.2
 - JSP
 > 1.0 to 1.04
+- Better Grass
+> 1.0 to 1.1
+- Consistent Pipboy Icons - Items
+>
+- Consistent Pipboy Icons - Extension
+>
+- Cloud Shadows
+> 
 
 ## Release 1.5.2.5
 
