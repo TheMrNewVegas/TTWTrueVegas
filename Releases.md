@@ -34,6 +34,9 @@
 - [Just Sprint +](https://www.nexusmods.com/newvegas/mods/83797)
 - [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
 
+**Want to Add**
+- [Dead Money Graffiti](https://www.nexusmods.com/newvegas/mods/83759)
+
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
 - SILO
