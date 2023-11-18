@@ -17,7 +17,6 @@
 - [2k Wardrobe Replacer](https://www.nexusmods.com/newvegas/mods/72611)
 - [2k Metal Box Replacer](https://www.nexusmods.com/newvegas/mods/72598)
 - [2k Medkit Replacer](https://www.nexusmods.com/newvegas/mods/72566)
-- [2k Mojave Express Box Replacer](https://www.nexusmods.com/newvegas/mods/72855)
 - [Better Jukebox - 1k HD](https://www.nexusmods.com/newvegas/mods/83710)
 - [HD Signs Overhaul Pt 1](https://www.nexusmods.com/newvegas/mods/82760)
 - [HD Signs Overhaul Pt 2](https://www.nexusmods.com/newvegas/mods/82770)
