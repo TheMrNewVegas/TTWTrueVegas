@@ -37,6 +37,7 @@
 - [Dead Money Grafitti](https://www.nexusmods.com/newvegas/mods/83759?tab=files)
 - [B42 Notify](https://www.nexusmods.com/newvegas/mods/80085?tab=files)
 - [Shuddup & Say This](https://www.nexusmods.com/newvegas/mods/83666?tab=files)
+- [MUX B42 Descriptions, Inspect, Notify, & Realtime Modding Patches](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
