@@ -43,6 +43,8 @@
 - SILO
 - SILO TTW
 - Nut's Grass
+- Casino Heists
+- FPS Weapon Lowering
 
 **Updated**
 - Titans of the New West 2.0
