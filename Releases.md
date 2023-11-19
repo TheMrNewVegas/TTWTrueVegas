@@ -46,6 +46,7 @@
 - Nut's Grass
 - Casino Heists
 - FPS Weapon Lowering
+- Rearranged Nuka Cola Overhaul & Alcohol Bottles Overhaul by ZZJay to be on scriptrunner
 
 **Updated**
 - Titans of the New West 2.0
