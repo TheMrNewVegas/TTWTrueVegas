@@ -51,7 +51,7 @@
 - Titans of the New West 2.0
 > 2.1.4 to 2.1.5
 - Bad Touch NVSE
-> 1.2.1 to 1.3.1
+> 1.2.1 to 1.3.1 to 1.4.1
 - Geck Extender & INI
 > 0.39a to 0.40
 - Yvile's Crash Logger
@@ -82,6 +82,12 @@
 > 1.0 to 1.0.1
 - F4NV NCR Ranger
 > 1.3 to 1.6
+- Hotkey Icons
+> 5.0.4 to 5.0.5
+- Sweet 6 Shooter Perks
+> 16.18 to 16.19
+- Alcohol Bottles Overhaul by zzjay
+1.0.2 to 1.1
 
 ## Release 1.5.2.5
 
