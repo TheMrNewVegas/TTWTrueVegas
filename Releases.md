@@ -57,7 +57,7 @@
 - Yvile's Crash Logger
 > 4.5 to 4.5.2
 - JSP
-> 1.0 to 1.04
+> 1.0 to 1.04 to 1.06
 - Better Grass
 > 1.0 to 1.1
 - Consistent Pipboy Icons - Items
@@ -76,6 +76,12 @@
 > 1.2.4 to 1.2.6
 - MUX Series Interface Overhaul
 > 5.5 to 6.2
+- Animated Ingestibles - B42 Inject Patch
+> 1.1 to 1.2
+- Afterglow Lightbright Tweaks
+> 1.0 to 1.0.1
+- F4NV NCR Ranger
+> 1.3 to 1.6
 
 ## Release 1.5.2.5
 
