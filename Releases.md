@@ -33,6 +33,7 @@
 - [Landscape Texture Improvement](https://www.nexusmods.com/newvegas/mods/83425)
 - [Just Sprint +](https://www.nexusmods.com/newvegas/mods/83797)
 - [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
+- [Hit - B42 Inject Water](https://www.nexusmods.com/newvegas/mods/83812)
 
 **Want to Add**
 - [Dead Money Graffiti](https://www.nexusmods.com/newvegas/mods/83759)
