@@ -35,9 +35,8 @@
 - [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
 - [Hit - B42 Inject Water](https://www.nexusmods.com/newvegas/mods/83812)
 - [Dead Money Grafitti](https://www.nexusmods.com/newvegas/mods/83759?tab=files)
-
-**Want to Add**
-- [Dead Money Graffiti](https://www.nexusmods.com/newvegas/mods/83759)
+- [B42 Notify](https://www.nexusmods.com/newvegas/mods/80085?tab=files)
+- [Shuddup & Say This](https://www.nexusmods.com/newvegas/mods/83666?tab=files)
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
@@ -74,8 +73,6 @@
 > 6.9.1 to 7.0.1
 - Mojave Raiders
 > 1.2.4 to 1.2.6
-
-**Want to Update
 - MUX Series Interface Overhaul
 > 5.5 to 6.2
 
