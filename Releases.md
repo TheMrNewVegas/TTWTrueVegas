@@ -41,6 +41,7 @@
 
 **Want to Add**
 - https://www.nexusmods.com/newvegas/mods/83786
+- https://www.nexusmods.com/newvegas/mods/82249
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
