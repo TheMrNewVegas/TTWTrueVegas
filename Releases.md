@@ -39,6 +39,9 @@
 - [Shuddup & Say This](https://www.nexusmods.com/newvegas/mods/83666?tab=files)
 - [MUX B42 Descriptions, Inspect, Notify, & Realtime Modding Patches](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 
+**Want to Add**
+- https://www.nexusmods.com/newvegas/mods/83786
+
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
 - SILO
