@@ -38,10 +38,8 @@
 - [B42 Notify](https://www.nexusmods.com/newvegas/mods/80085?tab=files)
 - [Shuddup & Say This](https://www.nexusmods.com/newvegas/mods/83666?tab=files)
 - [MUX B42 Descriptions, Inspect, Notify, & Realtime Modding Patches](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
-
-**Want to Add**
-- https://www.nexusmods.com/newvegas/mods/83786
-- https://www.nexusmods.com/newvegas/mods/82249
+- [Fire Queue Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83786)
+- [Zelda BOTW TOTK](https://www.nexusmods.com/newvegas/mods/82249)
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
