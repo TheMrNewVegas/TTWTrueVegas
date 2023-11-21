@@ -54,7 +54,7 @@
 
 **Updated**
 - Titans of the New West 2.0
-> 2.1.4 to 2.1.5
+> 2.1.4 to 2.1.05 to 2.1.06 
 - Bad Touch NVSE
 > 1.2.1 to 1.3.1 to 1.4.1
 - Geck Extender & INI
@@ -62,7 +62,7 @@
 - Yvile's Crash Logger
 > 4.5 to 4.5.2
 - JSP
-> 1.0 to 1.04 to 1.06
+> 1.0 to 1.04 to 1.06 to 1.061
 - Better Grass
 > 1.0 to 1.1
 - Consistent Pipboy Icons - Items
@@ -76,7 +76,7 @@
 - Player Combat Priority
 > 1.0.2 to 1.0.3
 - DNW & Patches
-> 6.9.1 to 7.0.1
+> 6.9.1 to 7.0.1 to 7.1
 - Mojave Raiders
 > 1.2.4 to 1.2.6
 - MUX Series Interface Overhaul
