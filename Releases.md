@@ -40,6 +40,7 @@
 - [MUX B42 Descriptions, Inspect, Notify, & Realtime Modding Patches](https://www.nexusmods.com/newvegas/mods/80642?tab=files)
 - [Fire Queue Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83786)
 - [Zelda BOTW TOTK](https://www.nexusmods.com/newvegas/mods/82249)
+- [Harold 2k](https://www.nexusmods.com/newvegas/mods/83716?tab=files)
 
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
