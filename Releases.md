@@ -93,7 +93,7 @@
 - Alcohol Bottles Overhaul by zzjay
 1.0.2 to 1.1
 - Main & Pause Menu Overhaul
-> to 4.7
+> 4.4 to 4.7
 
 ## Release 1.5.2.5
 
