@@ -64,10 +64,14 @@
 > 1.0 to 1.04 to 1.06 to 1.061
 - Better Grass
 > 1.0 to 1.1
+- Consistent Pipboy Icons - Apparel
+> 5.02 to 5.04
 - Consistent Pipboy Icons - Items
 > 5.04 to 5.05
 - Consistent Pipboy Icons - Extension
-> 1.0 to 2.0
+> 1.0 to 2.0 to 3.0
+- Consistent Pipboy Icons - Framework
+> 5.04 to 5.05
 - Fallout Alpha Rendering Tweaks
 > 2.4.3 to 2.5
  Cloud Shadows
@@ -94,6 +98,10 @@
 1.0.2 to 1.1
 - Main & Pause Menu Overhaul
 > 4.4 to 4.7
+- Stewie's Tweaks
+> 8.75 to 8.81
+- FNV Clean Animations Grenade Pack
+> 1.0 to 1.1
 
 ## Release 1.5.2.5
 
