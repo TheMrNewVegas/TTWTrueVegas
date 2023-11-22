@@ -92,6 +92,8 @@
 > 16.18 to 16.19
 - Alcohol Bottles Overhaul by zzjay
 1.0.2 to 1.1
+- Main & Pause Menu Overhaul
+> to 4.7
 
 ## Release 1.5.2.5
 
