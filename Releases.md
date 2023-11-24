@@ -42,6 +42,9 @@
 - [Zelda BOTW TOTK](https://www.nexusmods.com/newvegas/mods/82249)
 - [Harold 2k](https://www.nexusmods.com/newvegas/mods/83716?tab=files)
 
+**Looking Into**
+- [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815?tab=posts)
+
 **Removed/Fixed**
 - NPCs Sprint in Combat Plugin
 - SILO
