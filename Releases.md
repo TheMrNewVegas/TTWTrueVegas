@@ -105,6 +105,8 @@
 > 8.75 to 8.81
 - FNV Clean Animations Grenade Pack
 > 1.0 to 1.1
+- MO2
+> 2.5 RC1 to 2.5 RC2
 
 ## Release 1.5.2.5
 
