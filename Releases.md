@@ -53,6 +53,7 @@
 - Casino Heists
 - FPS Weapon Lowering
 - Rearranged Nuka Cola Overhaul & Alcohol Bottles Overhaul by ZZJay to be on scriptrunner
+- Stock Game Folder Removed, Capital Punishment now fully relies on your own files. Allows for use with any TTW compatible copy of Fallout New Vegas.
 
 **Updated**
 - Titans of the New West 2.0
