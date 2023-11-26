@@ -18,8 +18,9 @@
 - [Better Jukebox - 1k HD](https://www.nexusmods.com/newvegas/mods/83710)
 - [Blurry Distance](https://www.nexusmods.com/newvegas/mods/75413?tab=files)
 - [Dead Money Grafitti](https://www.nexusmods.com/newvegas/mods/83759?tab=files)
-- [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
 - [DXVK](https://www.nexusmods.com/newvegas/mods/79299)
+> You can check and uncheck this in Capital Punishment as much as you'd like; No need for manual installs anymore
+- [Dynamic Depth of Field - ESPless](https://www.nexusmods.com/newvegas/mods/83796?tab=files)
 - [Eyes of Torment](https://www.nexusmods.com/newvegas/mods/83768?tab=files)
 - [FNV Clean Anims - Grenade Pack](https://www.nexusmods.com/newvegas/mods/83735)
 - [Fallout 3 HD Overhaul & DLC Components](https://www.nexusmods.com/fallout3/mods/25657?tab=files)
