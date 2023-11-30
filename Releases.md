@@ -5,7 +5,8 @@
 ### Save Safe?: NO
 
 **Added**
-[Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
+
+- [Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
 
 **Looking Into**
 - [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815?tab=posts)
