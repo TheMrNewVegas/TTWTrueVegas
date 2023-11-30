@@ -7,8 +7,7 @@
 **Added**
 
 - [Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
-
-**Looking Into**
+- [B42 Inject - Meat Anims](https://www.nexusmods.com/newvegas/mods/83906?tab=files)
 - [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815?tab=posts)
 
 **Removed/Fixed**
