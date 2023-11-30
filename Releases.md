@@ -8,12 +8,16 @@
 
 - [Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
 - [B42 Inject - Meat Anims](https://www.nexusmods.com/newvegas/mods/83906?tab=files)
-- 
 
 **Removed/Fixed**
 
 
 **Updated**
+
+- JohnnyGuitar NVSE
+> 4.97 to 4.98
+- Animated Ingestibles: B42 Inject Patch
+> 1.2 to 1.3
 
 ## Release 1.5.3.0 [UNRELEASED]
 
