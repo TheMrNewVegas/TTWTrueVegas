@@ -1,5 +1,20 @@
 # Releases (Newest to Oldest)
 
+## Release 1.5.3.5 [UNRELEASED]
+
+### Save Safe?: NO
+
+**Added**
+[Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
+
+**Looking Into**
+- [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815?tab=posts)
+
+**Removed/Fixed**
+
+
+**Updated**
+
 ## Release 1.5.3.0 [UNRELEASED]
 
 ### Save Safe?: NO
