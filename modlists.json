@@ -24,21 +24,21 @@
     "links": {
       "image": "https://user-images.githubusercontent.com/112358568/226386639-4ff756df-7076-4ed2-91c5-cac721513dcd.png",
       "readme": "https://www.modlists.net/01CapitalPunishment/2-Abbreviated-Installation/",
-      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_f499dd9c-e7f7-4554-b753-e251338772db",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_7e24e4ea-7767-4a00-a1fb-4d7871298a0f",
       "machineURL": "capitalpunishment",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "bDl6Bi5pX0Q=",
-      "Size": 23519735,
-      "NumberOfArchives": 707,
-      "SizeOfArchives": 44179312381,
-      "NumberOfInstalledFiles": 82318,
-      "SizeOfInstalledFiles": 86028142812
+      "Hash": "hsrobPL0llM=",
+      "Size": 23648533,
+      "NumberOfArchives": 714,
+      "SizeOfArchives": 25760784519,
+      "NumberOfInstalledFiles": 106739,
+      "SizeOfInstalledFiles": 44570866426
     },
-    "version": "1.5.4.6",
+    "version": "1.5.4.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-04T22:51:40.6703884Z",
+    "dateUpdated": "2023-12-08T14:45:31.8271059Z",
     "repositoryName": ""
   }
 ]
